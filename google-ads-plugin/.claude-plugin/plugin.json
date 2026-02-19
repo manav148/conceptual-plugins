@@ -1,0 +1,11 @@
+{
+  "name": "google-ads",
+  "description": "Google Ads API management plugin. Manage campaigns, ad groups, ads, keywords, budgets, bidding strategies, conversions, audiences, assets, and run GAQL reports directly from Claude Code via the Google Ads REST API v23.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Manav Kundra",
+    "url": "https://github.com/manav148"
+  },
+  "keywords": ["google-ads", "ppc", "campaigns", "gaql", "advertising", "marketing"],
+  "license": "MIT"
+}

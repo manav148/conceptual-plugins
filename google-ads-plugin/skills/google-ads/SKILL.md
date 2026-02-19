@@ -46,7 +46,7 @@ Tell them:
 
 4. Exchange the refresh token for an access token:
 ```bash
-bash !{SKILL_DIR}/scripts/gads-token.sh "CLIENT_ID" "CLIENT_SECRET" "REFRESH_TOKEN"
+bash !{SKILL_DIR}/../../scripts/gads-token.sh "CLIENT_ID" "CLIENT_SECRET" "REFRESH_TOKEN"
 ```
 
 The script returns the access token on success or `ERROR: <message>` on failure.
@@ -72,7 +72,7 @@ You already have `ACCESS_TOKEN`, `DEVELOPER_TOKEN`, `CUSTOMER_ID`, and `LOGIN_CU
 
 If any call returns a 401 (token expired), re-run the token exchange script and retry:
 ```bash
-bash !{SKILL_DIR}/scripts/gads-token.sh "CLIENT_ID" "CLIENT_SECRET" "REFRESH_TOKEN"
+bash !{SKILL_DIR}/../../scripts/gads-token.sh "CLIENT_ID" "CLIENT_SECRET" "REFRESH_TOKEN"
 ```
 
 ---

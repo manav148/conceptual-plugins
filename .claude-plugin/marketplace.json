@@ -1,0 +1,16 @@
+{
+  "name": "conceptual-plugins-marketplace",
+  "description": "Claude Code marketplace for Google Ads and marketing tools",
+  "owner": {
+    "name": "Manav Kundra"
+  },
+  "plugins": [
+    {
+      "name": "google-ads",
+      "description": "Google Ads API management — campaigns, ad groups, ads, keywords, budgets, bidding strategies, conversions, audiences, assets, and GAQL reporting via the Google Ads REST API v23.",
+      "source": "./google-ads-plugin",
+      "version": "1.0.0",
+      "category": "productivity"
+    }
+  ]
+}
