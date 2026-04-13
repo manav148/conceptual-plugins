@@ -1,0 +1,11 @@
+{
+  "name": "mercury",
+  "description": "Mercury Bank API plugin. Query accounts, transactions, statements, cards, and recipients; send money and manage recipients via the Mercury API v1. Uses the MERCURY_API_KEY environment variable for authentication.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Manav Kundra",
+    "url": "https://github.com/manav148"
+  },
+  "keywords": ["mercury", "banking", "fintech", "transactions", "payments", "ach", "wire"],
+  "license": "MIT"
+}

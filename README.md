@@ -10,6 +10,12 @@ Full Google Ads API management — campaigns, ad groups, ads, keywords, budgets,
 
 See [google-ads-plugin/README.md](./google-ads-plugin/README.md) for details.
 
+### mercury
+
+Mercury Bank account access — list accounts, transactions, statements, cards, recipients; send money via ACH, wire, or check; manage recipients. Authenticates via the `MERCURY_API_KEY` environment variable.
+
+See [mercury-plugin/README.md](./mercury-plugin/README.md) for details.
+
 ## Marketplace
 
 This repository serves as a Claude Code marketplace. The `marketplace.json` at the root catalogs all available plugins.

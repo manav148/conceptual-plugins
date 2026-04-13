@@ -1,6 +1,6 @@
 {
   "name": "conceptual-plugins-marketplace",
-  "description": "Claude Code marketplace for Google Ads and marketing tools",
+  "description": "Claude Code marketplace for Google Ads, banking, and productivity tools",
   "owner": {
     "name": "Manav Kundra"
   },
@@ -9,6 +9,13 @@
       "name": "google-ads",
       "description": "Google Ads API management — campaigns, ad groups, ads, keywords, budgets, bidding strategies, conversions, audiences, assets, and GAQL reporting via the Google Ads REST API v23.",
       "source": "./google-ads-plugin",
+      "version": "1.0.0",
+      "category": "productivity"
+    },
+    {
+      "name": "mercury",
+      "description": "Mercury Bank API — accounts, transactions, statements, cards, recipients, and send-money (ACH, wire, check) via the Mercury API v1. Uses MERCURY_API_KEY env var.",
+      "source": "./mercury-plugin",
       "version": "1.0.0",
       "category": "productivity"
     }
