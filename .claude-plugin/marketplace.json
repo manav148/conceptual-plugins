@@ -18,6 +18,27 @@
       "source": "./mercury-plugin",
       "version": "1.0.0",
       "category": "productivity"
+    },
+    {
+      "name": "stripe",
+      "description": "Stripe API v1 — customers, charges, payment intents, subscriptions, invoices, products, prices, balance, payouts, refunds, disputes, events, and checkout sessions. Reads and writes. Uses STRIPE_API_KEY env var.",
+      "source": "./stripe-plugin",
+      "version": "1.0.0",
+      "category": "productivity"
+    },
+    {
+      "name": "chase",
+      "description": "Chase bank account access via Plaid (Chase does not expose a direct public API). Reads: accounts, balances, transactions, identity, ACH routing. Writes (Plaid Transfer) require Plaid enablement. Uses PLAID_CLIENT_ID/PLAID_SECRET/PLAID_ACCESS_TOKEN env vars.",
+      "source": "./chase-plugin",
+      "version": "1.0.0",
+      "category": "productivity"
+    },
+    {
+      "name": "figma-ad-designer",
+      "description": "AI ad design assistant. Creates production-ready Meta and Google Ads in Figma via figma-remote-mcp. Supports 1:1, 4:5, 9:16, and 1.91:1 with brand integration and QA review.",
+      "source": "./figma-ad-designer",
+      "version": "2.2.0",
+      "category": "productivity"
     }
   ]
 }

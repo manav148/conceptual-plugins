@@ -16,6 +16,18 @@ Mercury Bank account access — list accounts, transactions, statements, cards, 
 
 See [mercury-plugin/README.md](./mercury-plugin/README.md) for details.
 
+### stripe
+
+Stripe account access — customers, charges, payment intents, subscriptions, invoices, products, prices, balance, payouts, refunds, disputes, events, and checkout sessions. Full read + write. Authenticates via the `STRIPE_API_KEY` environment variable.
+
+See [stripe-plugin/README.md](./stripe-plugin/README.md) for details.
+
+### chase
+
+Chase bank account access via Plaid (Chase does not offer a direct public API). Reads accounts, balances, transactions, identity, ACH routing, investments, and liabilities. Writes are gated behind Plaid Transfer enablement. Uses `PLAID_CLIENT_ID`, `PLAID_SECRET`, `PLAID_ACCESS_TOKEN`, `PLAID_ENV` env vars.
+
+See [chase-plugin/README.md](./chase-plugin/README.md) for details.
+
 ## Marketplace
 
 This repository serves as a Claude Code marketplace. The `marketplace.json` at the root catalogs all available plugins.

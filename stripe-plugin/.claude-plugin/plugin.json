@@ -1,0 +1,11 @@
+{
+  "name": "stripe",
+  "description": "Stripe API plugin. Query customers, charges, payment intents, subscriptions, invoices, products, prices, balance, payouts, refunds, disputes, and events; create and mutate the same via the Stripe API v1. Uses the STRIPE_API_KEY environment variable for authentication.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Manav Kundra",
+    "url": "https://github.com/manav148"
+  },
+  "keywords": ["stripe", "payments", "subscriptions", "invoices", "billing", "checkout", "fintech"],
+  "license": "MIT"
+}

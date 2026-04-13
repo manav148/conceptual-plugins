@@ -1,0 +1,11 @@
+{
+  "name": "chase",
+  "description": "Chase bank account access via Plaid. Chase does not expose a direct public API for individual account holders, so this plugin queries a linked Chase Item through Plaid's REST API. Read-only by default (accounts, balances, transactions, identity, ACH routing). Writes (Plaid Transfer) require Plaid enablement. Uses PLAID_CLIENT_ID, PLAID_SECRET, PLAID_ACCESS_TOKEN, and PLAID_ENV environment variables.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Manav Kundra",
+    "url": "https://github.com/manav148"
+  },
+  "keywords": ["chase", "plaid", "banking", "transactions", "balance", "ach"],
+  "license": "MIT"
+}
