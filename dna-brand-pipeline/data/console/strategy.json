@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.1",
+  "brand_name": "Console",
+  "website": "https://www.console.com/",
+  "dna": {
+    "purpose": "Console exists to liberate IT teams from the drudgery of repetitive support requests that waste their talent and time. By automating the mundane—password resets, access requests, routine troubleshooting—Console enables IT professionals to focus on strategic work that actually moves their organizations forward.",
+    "personality": [
+      "sharp",
+      "pragmatic",
+      "confident",
+      "efficient",
+      "no-nonsense"
+    ],
+    "positioning": "Console owns the \"AI-native ITSM replacement\" position, standing in direct opposition to bloated legacy tools like ServiceNow, Moveworks, and Jira. While competitors require months of implementation and complex coding, Console deploys in 3 weeks and uses natural language automation—making it the clear choice for modern IT teams who refuse to tolerate unnecessary complexity.",
+    "promise": "Console auto-resolves over 50% of IT support requests directly in Slack and Teams, getting your team to Inbox Zero without code, complexity, or the typical enterprise deployment headaches.",
+    "unique_space": "Console owns the intersection of conversational AI and practical IT automation—the only player delivering measurable results (4x auto-resolution rates, CSAT jumps from 84% to 94%) through natural language workflows embedded where teams already work. This is the territory of \"AI that actually works in 3 weeks, not AI theater that takes 6 months to disappoint.\"",
+    "essence": "The sharp, pragmatic disruptor that frees IT teams from repetitive work by auto-resolving support requests with AI that deploys fast and delivers receipts."
+  },
+  "concepts": [
+    {
+      "id": "C01",
+      "title": "The Anti-Enterprise",
+      "tagline": "Enterprise results. Startup speed. Zero enterprise BS.",
+      "strategic_insight": "IT leaders are trapped in a paradox: they need enterprise-grade solutions but despise enterprise-grade complexity. Console can own the position of 'enterprise capability without enterprise suffering' by leaning hard into radical simplicity as a competitive weapon.",
+      "core_promise": "Console delivers the power IT teams need with none of the implementation torture they've learned to expect. 3 weeks to production. Natural language, not code. Results, not roadmaps.",
+      "visual_world": {
+        "archetype": "The Rebel Operator",
+        "colors": [
+          "Stark white",
+          "Signal black",
+          "Electric yellow warning accents"
+        ],
+        "typography": "Industrial sans-serif, tight tracking, brutalist hierarchy—feels like a command line interface elevated to brand",
+        "imagery": "Clean dashboards, empty inboxes, clocks showing fast time, before/after contrasts of cluttered vs. clean workspaces",
+        "mood": "Defiant efficiency—the visual equivalent of cutting through red tape with a sharp blade"
+      },
+      "verbal_world": {
+        "tone": "Direct, slightly confrontational, allergic to jargon",
+        "use": [
+          "Deploy, not implement",
+          "Receipts, not promises",
+          "Works in weeks, not quarters",
+          "Auto-resolve, not escalate"
+        ],
+        "avoid": [
+          "Digital transformation",
+          "Synergy",
+          "Robust",
+          "Comprehensive solution",
+          "Best-in-class"
+        ],
+        "example": "Your last ITSM took 6 months to disappoint you. Console takes 3 weeks to prove itself. See the difference?"
+      },
+      "copy_constraints": {
+        "max_headline_words": 7,
+        "banned_patterns": [
+          "Leading",
+          "World-class",
+          "Cutting-edge",
+          "Next-generation",
+          "Seamless"
+        ],
+        "required_tone": "Confrontational clarity"
+      },
+      "how_it_challenges_norms": "Rejects the enterprise software assumption that complexity equals capability. Attacks the industry norm of long implementation timelines as a feature (not a bug). Treats simplicity as a premium positioning rather than entry-level."
+    },
+    {
+      "id": "C02",
+      "title": "The Liberation Movement",
+      "tagline": "Your IT team was hired to build. Let them.",
+      "strategic_insight": "IT professionals didn't train for years to reset passwords. There's a talent crisis hiding inside every help desk—skilled people doing unskilled work. Console can position as the tool that returns IT professionals to their actual purpose.",
+      "core_promise": "Console handles the repetitive work so your IT team can do the strategic work they were actually hired to do. We automate the mundane so humans can do the meaningful.",
+      "visual_world": {
+        "archetype": "The Emancipator",
+        "colors": [
+          "Deep navy",
+          "Warm white",
+          "Liberation gold accents"
+        ],
+        "typography": "Humanist sans-serif with generous spacing—professional but warm, suggests breathing room",
+        "imagery": "IT professionals in strategic meetings instead of ticket queues, architects at whiteboards, empty notification trays, time reclaimed",
+        "mood": "Aspirational relief—the exhale after years of holding your breath"
+      },
+      "verbal_world": {
+        "tone": "Empathetic but not soft, understands the frustration without dwelling in it",
+        "use": [
+          "Reclaim",
+          "Strategic work",
+          "What you were hired for",
+          "Talent unlocked",
+          "Tickets handled, humans freed"
+        ],
+        "avoid": [
+          "Optimize",
+          "Leverage",
+          "Empower (overused)",
+          "Synergize",
+          "Enable"
+        ],
+        "example": "50% of your IT requests don't need a human. The other 50% deserve your best people. Console knows the difference."
+      },
+      "copy_constraints": {
+        "max_headline_words": 8,
+        "banned_patterns": [
+          "Empower your team",
+          "Unlock potential",
+          "Drive efficiency",
+          "Transform your"
+        ],
+        "required_tone": "Respectful urgency"
+      },
+      "how_it_challenges_norms": "Flips the ITSM narrative from 'managing tickets better' to 'eliminating tickets entirely.' Positions IT talent waste as the real problem, not ticket volume. Treats automation as a human dignity issue, not just an efficiency play."
+    },
+    {
+      "id": "C03",
+      "title": "The Receipts Era",
+      "tagline": "50% auto-resolution. 3 weeks to prove it. No faith required.",
+      "strategic_insight": "Enterprise AI has a credibility crisis—too many promises, too few receipts. IT leaders are skeptical because they've been burned. Console can own the 'prove it' position by leading with specific, verifiable outcomes rather than capability claims.",
+      "core_promise": "Console doesn't ask you to believe—it shows you the numbers. 4x auto-resolution rates. CSAT jumps from 84% to 94%. Demo to production in 3 weeks. We bring receipts, not roadmaps.",
+      "visual_world": {
+        "archetype": "The Auditor",
+        "colors": [
+          "Confident black",
+          "Verification green",
+          "Data gray"
+        ],
+        "typography": "Monospace for metrics, clean sans for context—feels like a dashboard that became a brand",
+        "imagery": "Real metrics, real testimonials, specific numbers, before/after comparisons, proof grids, customer logos with specific results",
+        "mood": "Confident transparency—nothing to hide because everything delivers"
+      },
+      "verbal_world": {
+        "tone": "Evidence-based confidence, specific rather than superlative",
+        "use": [
+          "Measured at",
+          "Verified by",
+          "In production at",
+          "See the data",
+          "Receipts included"
+        ],
+        "avoid": [
+          "Believe in",
+          "Trust us",
+          "Industry-leading",
+          "Unparalleled",
+          "Revolutionary"
+        ],
+        "example": "Alchemy increased auto-resolution from 10% to 45% in 90 days. Skeptical? They were too. Then they saw the dashboard."
+      },
+      "copy_constraints": {
+        "max_headline_words": 8,
+        "banned_patterns": [
+          "Believe",
+          "Trust",
+          "Promise",
+          "Revolutionary",
+          "Game-changing"
+        ],
+        "required_tone": "Specific confidence"
+      },
+      "how_it_challenges_norms": "Rejects the AI industry's reliance on capability marketing in favor of outcome marketing. Breaks the norm of vague 'up to X%' claims by using specific customer results. Treats skepticism as the prospect's right, not an objection to overcome."
+    },
+    {
+      "id": "C04",
+      "title": "The Slack Native",
+      "tagline": "IT support that lives where your team already works.",
+      "strategic_insight": "Every ITSM tool asks employees to leave their workflow—open a new tab, learn a new interface, file a ticket somewhere else. Console can own the 'embedded automation' territory by being radically native to where work actually happens.",
+      "core_promise": "Console doesn't make your team come to IT. IT comes to them—directly in Slack and Teams, resolved before they think to escalate, invisible until you need it.",
+      "visual_world": {
+        "archetype": "The Embedded Ally",
+        "colors": [
+          "Slack purple",
+          "Teams blue",
+          "Interface white",
+          "Subtle success green"
+        ],
+        "typography": "System-native fonts that feel like they belong in chat interfaces—familiar, fast, contextual",
+        "imagery": "Slack/Teams interfaces with Console responding, side-by-side workflow shots, messages resolving in real-time, zero-context-switching visuals",
+        "mood": "Frictionless presence—so integrated it feels like a feature, not a tool"
+      },
+      "verbal_world": {
+        "tone": "Conversational, contextual, feels like a helpful teammate not a system",
+        "use": [
+          "Right here",
+          "No new tabs",
+          "Where you work",
+          "Ask and done",
+          "Already there"
+        ],
+        "avoid": [
+          "Platform",
+          "Solution",
+          "Ecosystem",
+          "Integration hub",
+          "Centralized"
+        ],
+        "example": "Password reset? Type it in Slack. Done before you switch tabs. That's IT support that respects your flow."
+      },
+      "copy_constraints": {
+        "max_headline_words": 7,
+        "banned_patterns": [
+          "Integrated with",
+          "Connects to",
+          "Unified platform",
+          "Single pane of glass"
+        ],
+        "required_tone": "Effortless helpfulness"
+      },
+      "how_it_challenges_norms": "Rejects the ITSM industry's portal-centric model entirely. Breaks the assumption that IT support requires context-switching. Treats 'where work happens' as the only acceptable deployment surface."
+    },
+    {
+      "id": "C05",
+      "title": "The Three-Week Test",
+      "tagline": "If we can't prove value in 3 weeks, we don't deserve your business.",
+      "strategic_insight": "Enterprise software has trained buyers to expect long, painful implementations as the price of admission. Console's 3-week deployment isn't just a feature—it's a complete inversion of the buyer-seller power dynamic. Make speed the entire brand promise.",
+      "core_promise": "Console puts its money where its mouth is: demo to production in 3 weeks or we walk away. No 6-month implementations. No sunk cost trap. Prove it fast or don't prove it at all.",
+      "visual_world": {
+        "archetype": "The Challenger",
+        "colors": [
+          "Countdown red",
+          "Timer white",
+          "Progress black"
+        ],
+        "typography": "Bold, compact, urgent—numbers prominently displayed, timelines visualized",
+        "imagery": "21-day timelines, countdown aesthetics, sprint visuals, contracts with time guarantees, calendars with circled dates",
+        "mood": "Urgent confidence—the energy of someone who knows they'll deliver"
+      },
+      "verbal_world": {
+        "tone": "Bold, time-conscious, slightly impatient with the status quo",
+        "use": [
+          "21 days",
+          "Demo to production",
+          "Time-boxed proof",
+          "Start Monday, live by month-end",
+          "Clock's ticking"
+        ],
+        "avoid": [
+          "Implementation journey",
+          "Phased rollout",
+          "Long-term partnership",
+          "Gradual adoption"
+        ],
+        "example": "Your calendar has 21 days until end of quarter. That's enough time to deploy Console, auto-resolve 50% of tickets, and make your CFO smile."
+      },
+      "copy_constraints": {
+        "max_headline_words": 6,
+        "banned_patterns": [
+          "Quick implementation",
+          "Fast deployment",
+          "Rapid",
+          "Accelerated"
+        ],
+        "required_tone": "Time-urgent confidence"
+      },
+      "how_it_challenges_norms": "Transforms deployment speed from a feature into the entire value proposition. Breaks the enterprise assumption that good things take time. Inverts the buyer-seller power dynamic by putting the vendor on a public timer."
+    }
+  ]
+}

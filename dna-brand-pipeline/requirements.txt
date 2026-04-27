@@ -1,0 +1,19 @@
+# Business DNA Python service — direct dependencies
+# Pinned to minimum versions; pip resolves transitive deps.
+
+# Scraping layer
+scrapling[fetchers]>=0.4.5
+pytrends-modern>=0.2.5
+selenium>=4.41.0
+webdriver-manager>=4.0.2
+
+# HTTP service
+fastapi>=0.135.0
+uvicorn>=0.44.0
+pydantic>=2.12.0
+
+# LLM layer (used when ANTHROPIC_API_KEY is set)
+anthropic>=0.91.0
+
+# Dashboard
+streamlit>=1.56.0

@@ -1,0 +1,151 @@
+{
+  "schema_version": "1.1",
+  "brand_name": "RemNote",
+  "website": "https://www.remnote.com/",
+  "dna": {
+    "purpose": "RemNote exists to liberate serious students and lifelong learners from the inefficiency of fragmented study tools and forgotten knowledge. It believes that with the right science-backed system, anyone can achieve academic excellence without sacrificing their life to endless studying.",
+    "personality": [
+      "ambitious",
+      "efficiency-obsessed",
+      "supportive",
+      "intellectually confident",
+      "results-driven"
+    ],
+    "positioning": "RemNote owns the intersection of AI-powered intelligence and evidence-based learning science in a single unified platform. While Anki is just flashcards, Notion is just notes, and Quizlet is just quizzing, RemNote is the only tool that fuses all three with spaced repetition and AI tutoring—making tool-switching obsolete for high-achieving students.",
+    "promise": "Higher grades with less effort through science-backed spaced repetition, AI-generated study materials, and one platform that replaces your entire study stack.",
+    "unique_space": "RemNote alone can claim the \"academic superpower\" territory—the trusted platform where elite university students (Harvard, Berkeley, med school) build lifelong knowledge bases that compound over time. It's not just a study tool; it's the system serious learners use to remember everything that matters, forever.",
+    "essence": "The AI-powered knowledge system that gives ambitious learners the superpower of permanent memory and higher grades with half the effort."
+  },
+  "concepts": [
+    {
+      "id": "C01",
+      "title": "The Forgetting Killer",
+      "tagline": "Every fact you learn stays learned. Forever.",
+      "strategic_insight": "Students don't fear studying—they fear the futility of forgetting. The anxiety isn't the work itself; it's knowing that 80% of what they cram will vanish within weeks. RemNote can reframe the entire value proposition around elimination of knowledge decay, not study efficiency.",
+      "core_promise": "Your brain becomes a vault. What goes in, stays in—through algorithmically-timed reinforcement that makes forgetting neurologically impossible.",
+      "visual_world": {
+        "archetype": "The Fortress",
+        "colors": ["obsidian black", "vault gold", "reinforced steel gray"],
+        "typography": "Heavy, industrial sans-serifs with architectural weight—suggesting permanence and structural integrity",
+        "imagery": "Visualizations of knowledge being locked in, sealed, reinforced. Architectural metaphors of vaults, foundations, structural beams. No ephemeral light or flowing elements—everything solid, permanent, built to last.",
+        "mood": "Monumental, certain, unshakeable. The opposite of fleeting—everything communicates permanence and security."
+      },
+      "verbal_world": {
+        "tone": "Declarative and absolute. No hedging. Statements of fact about memory permanence.",
+        "use": ["lock in", "permanent", "retention rate", "zero decay", "cemented", "reinforced"],
+        "avoid": ["remember better", "improve memory", "helpful", "easy", "simple"],
+        "example": "You read it once. Our algorithm handles the rest. Retention rate: 95% at 12 months."
+      },
+      "copy_constraints": {
+        "max_headline_words": 6,
+        "banned_patterns": ["helps you", "makes it easy", "the best way to", "unlock your"],
+        "required_tone": "absolute certainty"
+      },
+      "how_it_challenges_norms": "1) Rejects the industry focus on 'learning faster' in favor of 'never forgetting'—a fundamentally different value proposition. 2) Uses industrial/architectural aesthetics in an ed-tech space dominated by soft, friendly, approachable design. 3) Makes a scientific claim (retention rates) the hero instead of emotional benefits."
+    },
+    {
+      "id": "C02",
+      "title": "The Academic Arms Race",
+      "tagline": "The unfair advantage your competition doesn't know about. Yet.",
+      "strategic_insight": "High-achieving students are locked in zero-sum competition for limited med school spots, clerkships, and elite positions. They don't want 'better learning'—they want to beat their peers. RemNote can own the competitive edge territory that no ed-tech brand dares claim explicitly.",
+      "core_promise": "While others study harder, you study smarter. RemNote is the systematic advantage that separates the top 1% from everyone grinding the same material.",
+      "visual_world": {
+        "archetype": "The Weapon",
+        "colors": ["carbon black", "tactical orange", "data green"],
+        "typography": "Sharp, angular, condensed typefaces with technical precision—like military briefing documents or competitive gaming interfaces",
+        "imagery": "Leaderboards, performance metrics, comparative graphs showing separation from competitors. Chess-like strategic visuals. Heat maps of knowledge gaps. Dashboard aesthetics with live performance data.",
+        "mood": "Competitive tension, strategic superiority, the calm confidence of someone who's already won."
+      },
+      "verbal_world": {
+        "tone": "Provocative and competitive. Speaks directly to the desire to outperform, not just perform.",
+        "use": ["edge", "outperform", "systematic advantage", "they don't know", "separation", "rankings"],
+        "avoid": ["everyone can", "together", "community", "journey", "support"],
+        "example": "324 med students at Johns Hopkins are using this right now. Are you one of them—or competing against them?"
+      },
+      "copy_constraints": {
+        "max_headline_words": 8,
+        "banned_patterns": ["learn together", "join our community", "we believe everyone", "your learning journey"],
+        "required_tone": "provocative competitive"
+      },
+      "how_it_challenges_norms": "1) Explicitly embraces zero-sum competition while competitors preach inclusive, supportive messaging. 2) Creates FOMO and competitive anxiety as a feature, not something to soothe. 3) Positions the tool as a weapon/advantage rather than a helpful companion."
+    },
+    {
+      "id": "C03",
+      "title": "The Compound Knowledge Machine",
+      "tagline": "Your notes from freshman year still working for you at 40.",
+      "strategic_insight": "Students are sold short-term tools for short-term problems (this exam, this semester). But the most ambitious learners—future doctors, researchers, experts—need a system that accumulates value over decades. RemNote can own the 'lifetime knowledge compound interest' positioning no other tool credibly claims.",
+      "core_promise": "Build once, benefit forever. Every note, every flashcard compounds into a personal knowledge base that grows more valuable with every year of your career.",
+      "visual_world": {
+        "archetype": "The Growing Tree / Investment Portfolio",
+        "colors": ["growth green", "compound gold", "time-weathered brown", "future blue"],
+        "typography": "Classic, enduring serifs mixed with modern data visualization fonts—suggesting timelessness meets systematic growth",
+        "imagery": "Time-lapse growth visualizations. Knowledge trees with visible root systems. Investment-style compound growth charts. Career timelines showing knowledge accumulation. The same note file shown at Year 1, Year 5, Year 20 with expanding connections.",
+        "mood": "Patient confidence, long-term thinking, the quiet satisfaction of building something that lasts."
+      },
+      "verbal_world": {
+        "tone": "Wise, forward-looking, investment-minded. Speaks to the future self, not just today's exam.",
+        "use": ["compounds", "accumulates", "decades", "career-long", "builds on itself", "future you"],
+        "avoid": ["quick", "instant", "this semester", "ace your exam", "cram"],
+        "example": "The anatomy notes you take this year will still be serving you in your residency. And beyond."
+      },
+      "copy_constraints": {
+        "max_headline_words": 7,
+        "banned_patterns": ["ace your next exam", "study for finals", "quick results", "instant"],
+        "required_tone": "patient wisdom"
+      },
+      "how_it_challenges_norms": "1) Rejects the short-term 'ace this exam' messaging that dominates ed-tech in favor of decade-long value propositions. 2) Uses investment/financial metaphors instead of educational ones. 3) Targets the 'future self' rather than the stressed student of today."
+    },
+    {
+      "id": "C04",
+      "title": "The Anti-Grind Movement",
+      "tagline": "Reject the 3am library. Reclaim your life.",
+      "strategic_insight": "Academic culture glorifies suffering—the all-nighter, the grind, the sacrifice. But students secretly resent it. RemNote can lead a counter-movement: achieving the same (or better) results through systematic intelligence rather than brute-force hours. It's permission to be ambitious AND have a life.",
+      "core_promise": "Same grades, half the hours. RemNote replaces study martyrdom with systematic efficiency—so you can be the top student who actually sleeps.",
+      "visual_world": {
+        "archetype": "The Liberator",
+        "colors": ["liberation yellow", "balance green", "anti-anxiety blue", "sunrise orange"],
+        "typography": "Clean, breathing, generous whitespace. Light-weight fonts that feel effortless and unburdened—the opposite of dense academic materials",
+        "imagery": "Students with free time—at coffee shops, outdoors, with friends. Crossed-out caffeine cups and all-nighter clichés. Time recovered visualized. Split screens: chaotic desk vs. calm RemNote workflow. The 'done by 6pm' lifestyle.",
+        "mood": "Relief, freedom, reclaimed humanity. The exhale after years of unnecessary grinding."
+      },
+      "verbal_world": {
+        "tone": "Rebellious but smart. Rejects hustle culture while still being achievement-oriented.",
+        "use": ["reclaim", "half the time", "done by dinner", "study smarter", "enough with", "you deserve"],
+        "avoid": ["grind", "hustle", "sacrifice", "put in the work", "no pain no gain"],
+        "example": "They'll wonder how you're top of the class and still make every party. You don't have to tell them."
+      },
+      "copy_constraints": {
+        "max_headline_words": 6,
+        "banned_patterns": ["put in the work", "grind now", "sacrifice today", "hustle"],
+        "required_tone": "rebellious relief"
+      },
+      "how_it_challenges_norms": "1) Directly attacks the 'grind culture' that most academic brands implicitly endorse or stay silent on. 2) Makes lifestyle outcomes (free time, social life) the hero metric instead of just academic outcomes. 3) Positions efficiency as rebellion rather than optimization."
+    },
+    {
+      "id": "C05",
+      "title": "The Second Brain Institute",
+      "tagline": "Your mind, extended. Your memory, externalized. Your limits, abolished.",
+      "strategic_insight": "The most ambitious learners don't just want to pass exams—they want to expand their cognitive capacity beyond biological limits. RemNote can position as the infrastructure for human cognitive enhancement, not just a study tool. It's the exocortex for the knowledge worker generation.",
+      "core_promise": "RemNote isn't a tool you use—it's an extension of your cognitive architecture. A second brain that thinks with you, remembers for you, and scales beyond biological limits.",
+      "visual_world": {
+        "archetype": "The Neural Network / Cyborg Interface",
+        "colors": ["neural purple", "synaptic electric blue", "consciousness white", "deep cognition black"],
+        "typography": "Futuristic but readable. Geometric sans-serifs with subtle tech flourishes—suggesting human-machine synthesis",
+        "imagery": "Abstract neural networks that are clearly digital, not biological. Mind-map visualizations that extend beyond the screen. Knowledge graphs as cognitive architecture. The interface as brain extension—seamless, integrated, always accessible. Human silhouettes with externalized knowledge clouds.",
+        "mood": "Transcendent capability, post-human potential, the thrill of expanded consciousness."
+      },
+      "verbal_world": {
+        "tone": "Visionary and philosophical. Speaks to cognitive enhancement, not just study help.",
+        "use": ["extend", "externalize", "cognitive architecture", "second brain", "thinking partner", "beyond limits"],
+        "avoid": ["study tool", "flashcard app", "note-taking", "homework help", "test prep"],
+        "example": "Your biological memory has limits. Your RemNote doesn't. Build the mind you were meant to have."
+      },
+      "copy_constraints": {
+        "max_headline_words": 7,
+        "banned_patterns": ["study app", "flashcard tool", "note-taking app", "for students"],
+        "required_tone": "visionary transcendence"
+      },
+      "how_it_challenges_norms": "1) Rejects 'tool' categorization entirely—positions as cognitive infrastructure/extension of self. 2) Uses transhumanist/cognitive science framing instead of educational framing. 3) Targets identity transformation ('become more') rather than task completion ('do better')."
+    }
+  ]
+}

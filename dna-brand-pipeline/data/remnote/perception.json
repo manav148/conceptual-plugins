@@ -1,0 +1,29 @@
+{
+  "brand_name": "RemNote",
+  "website": "https://www.remnote.com/",
+  "perception": {
+    "brand_name": "RemNote",
+    "primary_feelings": [
+      "efficient",
+      "empowered",
+      "smart",
+      "confident",
+      "organized"
+    ],
+    "sentiment_score": 1,
+    "positioning": "RemNote positions itself as an all-in-one AI-powered study tool that consolidates note-taking, flashcards, PDF annotation, and spaced repetition learning into a single platform. It differentiates from competitors (Notion, Anki, Quizlet) by eliminating the need to switch between multiple tools while using science-backed methods to help students study less and remember more.",
+    "tone_of_voice": "Confident yet accessible, outcome-focused with a friendly edge. The tone is motivational and direct (\"Study less and remember more\"), mixing educational credibility (spaced repetition science) with casual student language (\"Works like magic\", \"hardcore drug\" testimonial).",
+    "perceived_audience": "Serious students and lifelong learners—particularly university students, medical students, and exam-takers (MCAT mentioned)—who want to maximize learning efficiency and achieve higher grades with less effort.",
+    "key_promises": [
+      "Study less and remember more through spaced repetition",
+      "Get higher grades in less time with AI-powered tools",
+      "All-in-one platform - no need to switch between multiple apps",
+      "Build a lifelong knowledge base that scales with your career",
+      "Auto-generate flashcards and quizzes instantly with AI"
+    ],
+    "brand_personality": "RemNote would be the super-organized, high-achieving friend who's discovered a powerful study hack and excitedly shares it with everyone. They're passionate about learning efficiency, slightly nerdy about cognitive science, and genuinely want to help others succeed academically.",
+    "visual_first_impression": "Clean, professional, and education-focused with references to competitor tools (Anki, Notion, Quizlet logos) suggesting confidence and direct comparison positioning.",
+    "how_people_see_it": "People online likely see RemNote as a productivity power-tool for serious students who want an edge in their studies. The testimonials from Harvard and Berkeley students, plus the \"1 million+ students\" social proof, create a perception of a credible, effective tool used by high-achievers. The enthusiastic user testimonials (comparing it to a \"hardcore drug\" and \"superpower\") suggest a passionate, almost cult-like following among devoted users who've experienced genuine results."
+  },
+  "scrape_status": 200
+}

@@ -1,0 +1,906 @@
+{
+  "client": {
+    "brand_name": "Teal",
+    "website": "https://www.tealhq.com",
+    "category": "AI Resume Builder / Career Tools",
+    "geo": "United States",
+    "notes": "Pipeline-generated from brand URL + multi-source scraping",
+    "created_at": "2026-04-08T20:07:04.413493"
+  },
+  "business_dna": {
+    "brand_name": "Teal",
+    "purpose": "Teal exists to democratize career advancement by giving every job seeker — regardless of budget, background, or connections — the same strategic tools that recruiters and career coaches charge thousands for. The brand was born from the belief that navigating a career shouldn't require hiring an expert; it should require one intelligent platform that does the heavy lifting for you.",
+    "personality": "The Resourceful Ally: Not a detached tool, but a partner who rolls up their sleeves beside you. Teal talks to users like a sharp friend who happens to know exactly how hiring works.; Practically Optimistic: Acknowledges the job search is brutal (\"struggling,\" \"stuck,\" \"overwhelmed\") but immediately pivots to action. Never dwells; always moves forward.; Data-Confident: Backs every recommendation with match scores, keyword analysis, and ATS compatibility checks. Earns trust through transparency, not promises.; Generously Strategic: Gives away the core toolkit for free and lets the product's value do the selling. The free tier isn't a teaser — it's genuinely useful.; Quietly Ambitious: Positions itself as \"the best free AI resume builder\" but avoids chest-beating. Lets user results (6X more interviews) speak louder than brand claims.",
+    "positioning": "Teal owns the intersection of **AI-powered resume intelligence** and **full job-search lifecycle management** — the only platform where you can find a job, tailor your resume to it, track your application, and prepare for the interview, all in one place. While competitors like Jobscan specialize in ATS scanning and Rezi focuses on resume formatting, Teal is the only all-in-one operating system for the entire job search. This breadth, offered at a freemium price point, is territory no single competitor currently occupies.",
+    "promise": "Teal promises that you will never send a generic resume again. Every application will be tailored, tracked, and optimized — and the platform will do most of the work so you can focus on the jobs that actually matter.",
+    "uncontested_space": "The career tools market is fragmented: one tool for resumes, another for tracking, another for interview prep, another for salary research. Teal's uncontested territory is the **unified career command center** — a single dashboard where the entire job search lives. No competitor offers this breadth at a free entry point with AI depth. The space is further defended by Teal's SEO dominance (893K+ keywords, 1M+ organic clicks/month), which creates an organic acquisition moat that newcomers cannot replicate overnight.",
+    "one_line_summary": "Teal is the free, AI-powered command center that turns the chaos of job searching into a strategic, trackable, winnable process.",
+    "palette": {
+      "primary": "#005149",
+      "secondary": "#F5B501",
+      "accent": "#B58D47",
+      "background": "#FFFFFF",
+      "notes": "Extracted from brand CSS. Primary = Deep Teal, Secondary = Golden Amber."
+    },
+    "version": 1,
+    "created_at": "2026-04-08T20:07:04.413493"
+  },
+  "concept_pillars": {
+    "identity": "Teal is Teal is the free, AI-powered command center that turns the chaos of job searching into a strategic, trackable, winnable process.",
+    "tone": "Empowering, practical, data-confident, supportive, professional",
+    "visuals": "Deep Teal (#005149) as brand anchor, Golden Amber (#F5B501) as energy accent, clean modern design",
+    "message": "Teal promises that you will never send a generic resume again. Every application will be tailored, tracked, and optimized — and the platform will do most of the work so you can focus on the jobs that actually matter.",
+    "experience": "Unified career command center — one dashboard for the entire job search lifecycle"
+  },
+  "concepts": [
+    {
+      "id": "the_quiet_weapon",
+      "name": "The Quiet Weapon",
+      "tagline": "Stop applying. Start striking.",
+      "strategic_rationale": "The job market treats candidates as supplicants — always performing, always begging. This concept flips the power dynamic. Teal isn't a tool that helps you beg better; it's the weapon that makes you dangerous. Every application becomes a strategic strike, not a desperate shot in the dark.",
+      "narrative": "The quiet confidence aesthetic of 2020s \"old money\" culture crossed with tactical/military precision design. Inspired by how special operations units prepare: fewer missions, higher success rate.",
+      "visual_logic": "Tight crop compositions. Hands on keyboards, precise gestures, focused gazes. No stock-photo smiles. Cinematic lighting with high contrast. Deep teal shadows, amber edge lighting.",
+      "verbal_logic": "You don't need to apply to 100 jobs. You need to be undeniable for 5.",
+      "mood": "Controlled intensity. Negative space as power. Every element earns its place. The brand's deep teal becomes a strategic advantage — it IS dark and premium, unlike the generic SaaS blue competitors use.",
+      "application_examples": [
+        "Q1: \"Sharpen\" — tool-focused content showing precision resume customization",
+        "Q2: \"Deploy\" — strategic job search tactics, fewer-but-better applications",
+        "Q3: \"Intelligence\" — post-apply tracking and interview prep as reconnaissance",
+        "Q4: \"Command\" — salary negotiation and career advancement as taking what's yours"
+      ],
+      "market_change": "Rejects the industry's \"apply to more jobs faster\" mantra. Positions against quantity. Uses Teal's own Deep Teal (#005149) as a dark, premium surface — turning the brand color into a strategic weapon. While competitors use teal/blue as friendly accents, this makes it the dominant, commanding presence.\n\n**12-Month Scalability:**\n- Q1: \"Sharpen\" — tool-focused content showing precision resume customization\n- Q2: \"Deploy\" — strategic job search tactics, fewer-but-better applications\n- Q3: \"Intelligence\" — post-apply tracking and interview prep as reconnaissance\n- Q4: \"Command\" — salary negotiation and career advancement as taking what's yours",
+      "distinctiveness_note": "No career tool positions itself as a weapon. The entire market speaks in soft, supportive, empowering language. This is the first brand that says: the job market is a battlefield, and we arm you for it. The Deep Teal (#005149) used as a dark commanding surface is unique — competitors use similar teal as a friendly accent, never as a dominant authority color.",
+      "visual_guidance": {
+        "color_mood": "deep forest teal, warm amber gold, and warm gold",
+        "style_principles": [
+          "Sharp, condensed sans-serif for headlines (tight kerning, all-caps)",
+          "Tight crop compositions. Hands on keyboards, precise gestures, focused gazes. No stock-photo smiles. Cinematic lighting with high contrast. Deep teal shadows, amber edge lighting."
+        ],
+        "typography_direction": "Sharp, condensed sans-serif for headlines (tight kerning, all-caps)",
+        "imagery_direction": "Tight crop compositions. Hands on keyboards, precise gestures, focused gazes. No stock-photo smiles. Cinematic lighting with high contrast. Deep teal shadows, amber edge lighting.",
+        "dos": [
+          "command",
+          "sharpen",
+          "calibrate",
+          "position",
+          "leverage"
+        ],
+        "donts": [
+          "hope",
+          "try",
+          "luck",
+          "fingers crossed",
+          "spray and pray"
+        ]
+      },
+      "verbal_guidance": {
+        "tone_of_voice": "Measured confidence. Never shouts, never begs. Speaks like someone who's already won.",
+        "message_framing": "You don't need to apply to 100 jobs. You need to be undeniable for 5.",
+        "signature_phrases": [
+          "Stop applying. Start striking."
+        ],
+        "dos": [
+          "command",
+          "sharpen",
+          "calibrate",
+          "position",
+          "leverage"
+        ],
+        "donts": [
+          "hope",
+          "try",
+          "luck",
+          "fingers crossed",
+          "spray and pray"
+        ]
+      },
+      "application_map": {
+        "marketing": "Social ads using The Quiet Weapon visual system. Quarterly evolution: \"Sharpen\" — tool-focused content showing precision resume customization → \"Deploy\" — strategic job search tactics, fewer-but-better applications",
+        "content": "Blog and social content in Measured confidence. Never shouts, never begs. Spe tone",
+        "sales": "Pitch decks and case studies styled to The Quiet Weapon visual world",
+        "internal_comms": "Team alignment docs using The Quiet Weapon verbal guidelines",
+        "customer_experience": "Product UI elements reflecting Controlled intensity. Negative space as power. Every element earns its place. The brand's deep teal becomes a strategic advantage — it IS dark and premium, unlike the generic SaaS blue competitors use.",
+        "future_campaigns": "Q3: \"Intelligence\" — post-apply tracking and interview prep as reconnaissance | Q4: \"Command\" — salary negotiation and career advancement as taking what's yours"
+      },
+      "creative_defense": "The job market treats candidates as supplicants — always performing, always begging. This concept flips the power dynamic. Teal isn't a tool that helps you beg better; it's the weapon that makes you dangerous. Every application becomes a strategic strike, not a desperate shot in the dark.",
+      "confidence": 0.92,
+      "trend_slugs": [],
+      "palette_override": {
+        "primary": "#005149",
+        "secondary": "#F5B501",
+        "accent": "#B58D47",
+        "background": "#FFFFFF",
+        "notes": "Concept-specific palette for The Quiet Weapon"
+      }
+    },
+    {
+      "id": "career_greenhouse",
+      "name": "Career Greenhouse",
+      "tagline": "Grow your career. Not just your resume.",
+      "strategic_rationale": "Job search tools treat careers as transactions — find job, get job, next job. But careers are living systems that grow over years. Teal's Greenhouse starts where you need it most — your next job — then grows with you into career-long support. The roots are the resume builder; the branches are everything that comes after.",
+      "narrative": "The \"solarpunk\" aesthetic movement — optimistic, organic, technology-in-service-of-nature. Crossed with the horticultural metaphor: careers are gardens that need tending, not machines that need fixing. Inspired by Patagonia's long-term, stewardship-driven brand philosophy.",
+      "visual_logic": "Growth metaphors — seedlings pushing through soil, branching structures, aerial views of landscapes. Abstract botanical illustrations overlaid on career data visualizations. People photographed in natural light. Deep Teal used as rich earth tones in illustrations.",
+      "verbal_logic": "Your career isn't a sprint. It's a garden — and every skill you plant today shapes what blooms tomorrow.",
+      "mood": "Warm, alive, patient. Technology that feels like sunlight — invisible but essential. The Deep Teal is the soil; the Golden Amber is the sun.",
+      "application_examples": [
+        "Q1: \"Plant\" — foundational career tools, resume as your first seed, emphasis on the free starting point",
+        "Q2: \"Tend\" — skill development, career path exploration, growth tracking (introducing new lifecycle features)",
+        "Q3: \"Bloom\" — showcase outcomes, career transformations, user stories of long-term growth",
+        "Q4: \"Harvest\" — year-in-review, career progress visualization, next-year planning"
+      ],
+      "market_change": "Rejects crisis-mode framing. While every competitor says \"land a job NOW,\" this says \"build a career that lasts.\" The only long-term play in a market of short-term fixes. Honest about the journey: \"We start with the resume builder. Your career greenhouse grows from there.\"\n\n**12-Month Scalability:**\n- Q1: \"Plant\" — foundational career tools, resume as your first seed, emphasis on the free starting point\n- Q2: \"Tend\" — skill development, career path exploration, growth tracking (introducing new lifecycle features)\n- Q3: \"Bloom\" — showcase outcomes, career transformations, user stories of long-term growth\n- Q4: \"Harvest\" — year-in-review, career progress visualization, next-year planning",
+      "distinctiveness_note": "Every competitor is a crisis tool. No career platform has claimed the \"lifelong growth\" territory. This repositions Teal from transactional tool to career companion — but does so honestly, starting with the strongest free resume builder and building outward.",
+      "visual_guidance": {
+        "color_mood": "deep forest teal, warm amber gold, and deep forest teal",
+        "style_principles": [
+          "Rounded, humanist sans-serif",
+          "Growth metaphors — seedlings pushing through soil, branching structures, aerial views of landscapes. Abstract botanical illustrations overlaid on career data visualizations. People photographed in natural light. Deep Teal used as rich earth tones in illustrations."
+        ],
+        "typography_direction": "Rounded, humanist sans-serif",
+        "imagery_direction": "Growth metaphors — seedlings pushing through soil, branching structures, aerial views of landscapes. Abstract botanical illustrations overlaid on career data visualizations. People photographed in natural light. Deep Teal used as rich earth tones in illustrations.",
+        "dos": [
+          "nurture",
+          "flourish",
+          "foundation",
+          "patience",
+          "harvest"
+        ],
+        "donts": [
+          "disrupt",
+          "dominate",
+          "kill it",
+          "crush",
+          "hack"
+        ]
+      },
+      "verbal_guidance": {
+        "tone_of_voice": "Nurturing but never saccharine. A wise gardener who respects that growth takes time. Honest about the current product's scope — \"We start with your resume. We'll grow from there.\"",
+        "message_framing": "Your career isn't a sprint. It's a garden — and every skill you plant today shapes what blooms tomorrow.",
+        "signature_phrases": [
+          "Grow your career. Not just your resume."
+        ],
+        "dos": [
+          "nurture",
+          "flourish",
+          "foundation",
+          "patience",
+          "harvest"
+        ],
+        "donts": [
+          "disrupt",
+          "dominate",
+          "kill it",
+          "crush",
+          "hack"
+        ]
+      },
+      "application_map": {
+        "marketing": "Social ads using Career Greenhouse visual system. Quarterly evolution: \"Plant\" — foundational career tools, resume as your first seed, emphasis on the free starting point → \"Tend\" — skill development, career path exploration, growth tracking (introducing new lifecycle features)",
+        "content": "Blog and social content in Nurturing but never saccharine. A wise gardener wh tone",
+        "sales": "Pitch decks and case studies styled to Career Greenhouse visual world",
+        "internal_comms": "Team alignment docs using Career Greenhouse verbal guidelines",
+        "customer_experience": "Product UI elements reflecting Warm, alive, patient. Technology that feels like sunlight — invisible but essential. The Deep Teal is the soil; the Golden Amber is the sun.",
+        "future_campaigns": "Q3: \"Bloom\" — showcase outcomes, career transformations, user stories of long-term growth | Q4: \"Harvest\" — year-in-review, career progress visualization, next-year planning"
+      },
+      "creative_defense": "Job search tools treat careers as transactions — find job, get job, next job. But careers are living systems that grow over years. Teal's Greenhouse starts where you need it most — your next job — then grows with you into career-long support. The roots are the resume builder; the branches are everything that comes after.",
+      "confidence": 0.78,
+      "trend_slugs": [],
+      "palette_override": {
+        "primary": "#005149",
+        "secondary": "#F5B501",
+        "accent": "#E9F3F3",
+        "background": "#FFFFFF",
+        "notes": "Concept-specific palette for Career Greenhouse"
+      }
+    },
+    {
+      "id": "signal___noise",
+      "name": "Signal : Noise",
+      "tagline": "Cut through. Stand out. Get hired.",
+      "strategic_rationale": "The modern job search is an information overload problem. 750+ applicants per posting. 100+ resume templates. 20+ AI tools claiming to help. Users are drowning in noise. Teal's real value isn't adding more — it's filtering signal from noise. It's the clarity engine in a chaotic market.",
+      "narrative": "Swiss International Style (Helvetica era) — the design movement built on the principle that clarity is the highest form of beauty. Crossed with Edward Tufte's data visualization ethos: every ink mark must earn its place. Culturally, this taps into the post-maximalist shift where consumers reject feature bloat in favor of curated simplicity.",
+      "visual_logic": "Data visualizations as art. Clean dashboards. Before/after comparisons (cluttered gray vs. clear teal). Abstract representations of a teal signal wave cutting through gray static. Minimal photography — when used, stark and editorial.",
+      "verbal_logic": "750 people applied for that job. Your resume needs to be a signal, not more noise.",
+      "mood": "Surgical precision. The feeling of a perfectly organized workspace. Relief through simplicity. Deep Teal is never decoration — it's always marking the signal.",
+      "application_examples": [
+        "Q1: \"Filter\" — launch with resume-to-job signal matching, noise-cutting positioning",
+        "Q2: \"Focus\" — application strategy (fewer, targeted applications vs. spray-and-pray)",
+        "Q3: \"Amplify\" — post-application tools that keep your signal strong through follow-up",
+        "Q4: \"Resonate\" — interview prep, salary negotiation — your signal in every conversation"
+      ],
+      "market_change": "While competitors add features and complexity, this concept celebrates reduction. The anti-feature-list brand. In a market where everyone screams \"we do 20 things,\" this says \"we do one thing: make you impossible to ignore.\" Deep Teal is used ONLY for signal elements — never as decoration. This gives the brand color strategic meaning, not just visual presence.\n\n**12-Month Scalability:**\n- Q1: \"Filter\" — launch with resume-to-job signal matching, noise-cutting positioning\n- Q2: \"Focus\" — application strategy (fewer, targeted applications vs. spray-and-pray)\n- Q3: \"Amplify\" — post-application tools that keep your signal strong through follow-up\n- Q4: \"Resonate\" — interview prep, salary negotiation — your signal in every conversation",
+      "distinctiveness_note": "No career tool has claimed the \"clarity\" position. Everyone competes on features. This is the first brand that competes on focus — the promise of LESS that delivers MORE. The Deep Teal brand color becomes a semantic tool: teal = signal, gray = noise. No competitor can replicate this color-as-meaning system.",
+      "visual_guidance": {
+        "color_mood": "clean white, rich charcoal, and deep forest teal",
+        "style_principles": [
+          "Geometric sans-serif (clean, precise, grid-aligned)",
+          "Data visualizations as art. Clean dashboards. Before/after comparisons (cluttered gray vs. clear teal). Abstract representations of a teal signal wave cutting through gray static. Minimal photography — when used, stark and editorial."
+        ],
+        "typography_direction": "Geometric sans-serif (clean, precise, grid-aligned)",
+        "imagery_direction": "Data visualizations as art. Clean dashboards. Before/after comparisons (cluttered gray vs. clear teal). Abstract representations of a teal signal wave cutting through gray static. Minimal photography — when used, stark and editorial.",
+        "dos": [
+          "sharpen",
+          "distill",
+          "focus",
+          "essential",
+          "clear"
+        ],
+        "donts": [
+          "everything",
+          "unlimited",
+          "tons",
+          "packed with",
+          "loaded"
+        ]
+      },
+      "verbal_guidance": {
+        "tone_of_voice": "Clear and direct. Says more with fewer words. Every sentence is load-bearing.",
+        "message_framing": "750 people applied for that job. Your resume needs to be a signal, not more noise.",
+        "signature_phrases": [
+          "Cut through. Stand out. Get hired."
+        ],
+        "dos": [
+          "sharpen",
+          "distill",
+          "focus",
+          "essential",
+          "clear"
+        ],
+        "donts": [
+          "everything",
+          "unlimited",
+          "tons",
+          "packed with",
+          "loaded"
+        ]
+      },
+      "application_map": {
+        "marketing": "Social ads using Signal : Noise visual system. Quarterly evolution: \"Filter\" — launch with resume-to-job signal matching, noise-cutting positioning → \"Focus\" — application strategy (fewer, targeted applications vs. spray-and-pray)",
+        "content": "Blog and social content in Clear and direct. Says more with fewer words. Ever tone",
+        "sales": "Pitch decks and case studies styled to Signal : Noise visual world",
+        "internal_comms": "Team alignment docs using Signal : Noise verbal guidelines",
+        "customer_experience": "Product UI elements reflecting Surgical precision. The feeling of a perfectly organized workspace. Relief through simplicity. Deep Teal is never decoration — it's always marking the signal.",
+        "future_campaigns": "Q3: \"Amplify\" — post-application tools that keep your signal strong through follow-up | Q4: \"Resonate\" — interview prep, salary negotiation — your signal in every conversation"
+      },
+      "creative_defense": "The modern job search is an information overload problem. 750+ applicants per posting. 100+ resume templates. 20+ AI tools claiming to help. Users are drowning in noise. Teal's real value isn't adding more — it's filtering signal from noise. It's the clarity engine in a chaotic market.",
+      "confidence": 0.92,
+      "trend_slugs": [],
+      "palette_override": {
+        "primary": "#FFFFFF",
+        "secondary": "#101828",
+        "accent": "#005149",
+        "background": "#FFFFFF",
+        "notes": "Concept-specific palette for Signal : Noise"
+      }
+    },
+    {
+      "id": "main_character_energy",
+      "name": "Main Character Energy",
+      "tagline": "Your career. Your story. Own it.",
+      "strategic_rationale": "Job seekers feel like extras in someone else's story — faceless applicants processed through ATS machines. This concept flips the frame: you are the protagonist of your career narrative. Teal makes you visible, compelling, and memorable — not just formatted and keyword-matched.",
+      "narrative": "The personal branding revolution: your career is a story, and you're the author. Visually inspired by the editorial boldness of magazines like Kinfolk meets the personalized data celebrations of Spotify Wrapped. Culturally, this taps into the enduring human need to be seen as an individual, not a data point.",
+      "visual_logic": "Portrait-forward photography — real people lit dramatically against Deep Teal backgrounds, shot from slightly below (empowering angle). Bold type overlays on photography. Career data presented as personal achievement graphics. Golden Amber spotlight effects on key subjects.",
+      "verbal_logic": "You're not application #347. You're the person they've been searching for. Let's make sure your resume proves it.",
+      "mood": "Confident, celebratory, energetic. You're not applying for a job — you're making an entrance. Deep Teal provides the commanding stage; Golden Amber provides the spotlight.",
+      "application_examples": [
+        "Q1: \"Entrance\" — bold resume creation as your protagonist introduction",
+        "Q2: \"Plot\" — career narrative building, LinkedIn story optimization",
+        "Q3: \"Climax\" — interview prep as your defining moment, salary negotiation as your power scene",
+        "Q4: \"Next Chapter\" — career review, growth celebration, setting up the sequel"
+      ],
+      "market_change": "Rejects the faceless, transactional UX of career tools. While competitors treat users as data inputs, this treats them as protagonists. Deep Teal provides the dramatic stage that NO competitor uses — their teal is friendly; ours is commanding.\n\n**12-Month Scalability:**\n- Q1: \"Entrance\" — bold resume creation as your protagonist introduction\n- Q2: \"Plot\" — career narrative building, LinkedIn story optimization\n- Q3: \"Climax\" — interview prep as your defining moment, salary negotiation as your power scene\n- Q4: \"Next Chapter\" — career review, growth celebration, setting up the sequel",
+      "distinctiveness_note": "No career tool celebrates the user. Every competitor's UX centers the tool. This centers the PERSON. The Deep Teal + Golden Amber combination creates a \"spotlight on dark stage\" effect that is visually unique to Teal and impossible for competitors using generic light-blue palettes to replicate.",
+      "visual_guidance": {
+        "color_mood": "deep forest teal, warm amber gold, and electric violet",
+        "style_principles": [
+          "Bold, expressive display fonts for headlines (slightly imperfect, hand-crafted feel)",
+          "Portrait-forward photography — real people lit dramatically against Deep Teal backgrounds, shot from slightly below (empowering angle). Bold type overlays on photography. Career data presented as personal achievement graphics. Golden Amber spotlight effects on key subjects."
+        ],
+        "typography_direction": "Bold, expressive display fonts for headlines (slightly imperfect, hand-crafted feel)",
+        "imagery_direction": "Portrait-forward photography — real people lit dramatically against Deep Teal backgrounds, shot from slightly below (empowering angle). Bold type overlays on photography. Career data presented as personal achievement graphics. Golden Amber spotlight effects on key subjects.",
+        "dos": [
+          "shine",
+          "bold",
+          "story",
+          "deserve",
+          "celebrate",
+          "protagonist"
+        ],
+        "donts": [
+          "compete",
+          "struggle",
+          "survive",
+          "cope",
+          "manage",
+          "main character (too trendy)"
+        ]
+      },
+      "verbal_guidance": {
+        "tone_of_voice": "Your sharpest advocate. The voice that gasses you up before an interview AND tells you when your resume needs work. Confident but not arrogant; personal but not unprofessional.",
+        "message_framing": "You're not application #347. You're the person they've been searching for. Let's make sure your resume proves it.",
+        "signature_phrases": [
+          "Your career. Your story. Own it."
+        ],
+        "dos": [
+          "shine",
+          "bold",
+          "story",
+          "deserve",
+          "celebrate",
+          "protagonist"
+        ],
+        "donts": [
+          "compete",
+          "struggle",
+          "survive",
+          "cope",
+          "manage",
+          "main character (too trendy)"
+        ]
+      },
+      "application_map": {
+        "marketing": "Social ads using Main Character Energy visual system. Quarterly evolution: \"Entrance\" — bold resume creation as your protagonist introduction → \"Plot\" — career narrative building, LinkedIn story optimization",
+        "content": "Blog and social content in Your sharpest advocate. The voice that gasses you  tone",
+        "sales": "Pitch decks and case studies styled to Main Character Energy visual world",
+        "internal_comms": "Team alignment docs using Main Character Energy verbal guidelines",
+        "customer_experience": "Product UI elements reflecting Confident, celebratory, energetic. You're not applying for a job — you're making an entrance. Deep Teal provides the commanding stage; Golden Amber provides the spotlight.",
+        "future_campaigns": "Q3: \"Climax\" — interview prep as your defining moment, salary negotiation as your power scene | Q4: \"Next Chapter\" — career review, growth celebration, setting up the sequel"
+      },
+      "creative_defense": "Job seekers feel like extras in someone else's story — faceless applicants processed through ATS machines. This concept flips the frame: you are the protagonist of your career narrative. Teal makes you visible, compelling, and memorable — not just formatted and keyword-matched.",
+      "confidence": 0.78,
+      "trend_slugs": [],
+      "palette_override": {
+        "primary": "#005149",
+        "secondary": "#F5B501",
+        "accent": "#7F56D9",
+        "background": "#FFFFFF",
+        "notes": "Concept-specific palette for Main Character Energy"
+      }
+    },
+    {
+      "id": "the_transparent_machine",
+      "name": "The Transparent Machine",
+      "tagline": "See exactly why you'll get hired.",
+      "strategic_rationale": "Users distrust career tools. Reddit is full of skepticism: \"Is Teal legit?\" \"These tools usually sound robotic.\" \"Hit with a hard paywall.\" The entire industry has a trust deficit. Teal can own the radical transparency position — show users exactly how the AI works, what the algorithm recommends and why, what the data says. Make the invisible machine visible.",
+      "narrative": "The open-source/right-to-repair movement — the belief that you have the right to understand the tools you use. Crossed with the glass-box architecture trend and the \"how it's made\" content genre. Culturally aligned with the post-AI-hype shift: users don't want magic, they want understanding.",
+      "visual_logic": "Wireframe/blueprint aesthetics using Deep Indigo lines on Teal Tint backgrounds. Exploded-view diagrams of how features work. Split-screen before/after showing AI recommendations with reasoning visible in annotation boxes. Glass/transparency effects using the Teal Tint as the glass layer over Deep Teal structural elements.",
+      "verbal_logic": "Our AI flagged 3 missing keywords in your resume. Here's each one, why it matters, and where to add it. You decide what stays.",
+      "mood": "Open, honest, structural. The beauty of understanding. Nothing is hidden; everything is explained. The Teal Tint is literal transparency — the brand's light color IS the glass through which the Deep Teal structure is visible.",
+      "application_examples": [
+        "Q1: \"Open\" — launch transparency features, \"here's what our AI sees\" content series",
+        "Q2: \"Understand\" — educational content explaining ATS, hiring algorithms, and AI decisions",
+        "Q3: \"Decide\" — user control features, \"you choose what matters\" customization",
+        "Q4: \"Prove\" — outcome data transparency, anonymized success metrics shared publicly"
+      ],
+      "market_change": "Every competitor is a black box. This is the first career tool that shows its work. In an era of AI skepticism, radical transparency becomes the ultimate competitive advantage. The visual language uses Teal's own colors as a transparency metaphor: Teal Tint = the glass, Deep Teal = the structure you can see through it.\n\n**12-Month Scalability:**\n- Q1: \"Open\" — launch transparency features, \"here's what our AI sees\" content series\n- Q2: \"Understand\" — educational content explaining ATS, hiring algorithms, and AI decisions\n- Q3: \"Decide\" — user control features, \"you choose what matters\" customization\n- Q4: \"Prove\" — outcome data transparency, anonymized success metrics shared publicly",
+      "distinctiveness_note": "No career tool is transparent about how it works. Every competitor hides behind \"AI magic.\" The brand that shows its work wins trust — and trust is the moat that marketing budgets can't buy. The Teal Tint/Deep Teal color relationship becomes a visual metaphor for transparency itself: see through the light layer to the structure beneath.\n\n---\n\n## REFINED CONCEPT DIFFERENTIATION MATRIX\n\n| Dimension | The Quiet Weapon | Career Greenhouse | Signal : Noise | Protagonist Energy | The Transparent Machine |\n|-----------|-----------------|-------------------|----------------|-------------------|------------------------|\n| **Tone** | Controlled intensity | Honest nurturing | Surgical clarity | Confident advocacy | Transparent directness |\n| **Visual Style** | Deep Teal as dark authority | Deep Teal as rich soil | Deep Teal as signal marker | Deep Teal as dramatic stage | Deep Teal as visible structure |\n| **Color Accent** | Golden Amber (weapon's edge) | Golden Amber (sunlight) | Golden Amber (alert/CTA) | Golden Amber (spotlight) | Golden Amber (verification) |\n| **Brand Color Role** | #005149 = commanding surface | #005149 = fertile ground | #005149 = the signal itself | #005149 = the stage | #005149 = the framework |\n| **Audience** | Strategic professionals | Long-term career growers | Overwhelmed applicants | Self-advocates (all ages) | Skeptical, data-literate users |\n| **Strategic Bet** | Quality over quantity | Lifelong career companion | Less is more | Emotional resonance | Trust through transparency |\n| **Risk Level** | High | Medium | Medium | High (reduced from original) | Medium |\n| **Industry Norm Broken** | \"Apply to more jobs\" | \"Use us only when job hunting\" | \"We have 20 features\" | \"You're a data point\" | \"Trust our AI\" |\n| **Interrogation Confidence** | 92% | 78% | 96% | 84% | 95% |\n\n### Key Refinement: Brand Color as Strategic Asset\n\nAll five concepts now use the SAME brand color foundation (#005149 Deep Teal + #F5B501 Golden Amber) but give each color a DIFFERENT strategic meaning:\n\n| Concept | Deep Teal means... | Golden Amber means... |\n|---------|--------------------|-----------------------|\n| Quiet Weapon | Authority, command | The weapon's edge, precision |\n| Career Greenhouse | Rich soil, foundation | Sunlight, growth energy |\n| Signal : Noise | THE signal itself | Alert, important notification |\n| Protagonist Energy | The dramatic stage | Spotlight, celebration |\n| Transparent Machine | The visible framework | Verification, confirmed |\n\nThis ensures brand continuity across all five concepts while maintaining genuine creative differentiation. Whichever concept the client chooses, the core brand colors remain — only their meaning shifts.",
+      "visual_guidance": {
+        "color_mood": "deep forest teal, deep forest teal, and deep indigo",
+        "style_principles": [
+          "Monospaced/technical for data, AI explanations, and scores (making the \"code\" visible)",
+          "Wireframe/blueprint aesthetics using Deep Indigo lines on Teal Tint backgrounds. Exploded-view diagrams of how features work. Split-screen before/after showing AI recommendations with reasoning visible in annotation boxes. Glass/transparency effects using the Teal Tint as the glass layer over Deep Teal structural elements."
+        ],
+        "typography_direction": "Monospaced/technical for data, AI explanations, and scores (making the \"code\" visible)",
+        "imagery_direction": "Wireframe/blueprint aesthetics using Deep Indigo lines on Teal Tint backgrounds. Exploded-view diagrams of how features work. Split-screen before/after showing AI recommendations with reasoning visible in annotation boxes. Glass/transparency effects using the Teal Tint as the glass layer over Deep Teal structural elements.",
+        "dos": [
+          "transparent",
+          "honest",
+          "understand",
+          "explain",
+          "your decision"
+        ],
+        "donts": [
+          "secret",
+          "magic",
+          "automatic",
+          "trust us",
+          "premium unlock"
+        ]
+      },
+      "verbal_guidance": {
+        "tone_of_voice": "Honest and direct. Explains rather than sells. Treats users as intelligent adults.",
+        "message_framing": "Our AI flagged 3 missing keywords in your resume. Here's each one, why it matters, and where to add it. You decide what stays.",
+        "signature_phrases": [
+          "See exactly why you'll get hired."
+        ],
+        "dos": [
+          "transparent",
+          "honest",
+          "understand",
+          "explain",
+          "your decision"
+        ],
+        "donts": [
+          "secret",
+          "magic",
+          "automatic",
+          "trust us",
+          "premium unlock"
+        ]
+      },
+      "application_map": {
+        "marketing": "Social ads using The Transparent Machine visual system. Quarterly evolution: \"Open\" — launch transparency features, \"here's what our AI sees\" content series → \"Understand\" — educational content explaining ATS, hiring algorithms, and AI decisions",
+        "content": "Blog and social content in Honest and direct. Explains rather than sells. Tre tone",
+        "sales": "Pitch decks and case studies styled to The Transparent Machine visual world",
+        "internal_comms": "Team alignment docs using The Transparent Machine verbal guidelines",
+        "customer_experience": "Product UI elements reflecting Open, honest, structural. The beauty of understanding. Nothing is hidden; everything is explained. The Teal Tint is literal transparency — the brand's light color IS the glass through which the Deep Teal structure is visible.",
+        "future_campaigns": "Q3: \"Decide\" — user control features, \"you choose what matters\" customization | Q4: \"Prove\" — outcome data transparency, anonymized success metrics shared publicly"
+      },
+      "creative_defense": "Users distrust career tools. Reddit is full of skepticism: \"Is Teal legit?\" \"These tools usually sound robotic.\" \"Hit with a hard paywall.\" The entire industry has a trust deficit. Teal can own the radical transparency position — show users exactly how the AI works, what the algorithm recommends and why, what the data says. Make the invisible machine visible.",
+      "confidence": 0.92,
+      "trend_slugs": [],
+      "palette_override": {
+        "primary": "#E9F3F3",
+        "secondary": "#005149",
+        "accent": "#2427AB",
+        "background": "#FFFFFF",
+        "notes": "Concept-specific palette for The Transparent Machine"
+      }
+    }
+  ],
+  "visual_prompts": {
+    "ad_sets": [
+      {
+        "concept_id": "the_quiet_weapon",
+        "concept_name": "The Quiet Weapon",
+        "ideas": [
+          {
+            "id": "the_quiet_weapon_01_hook",
+            "concept_id": "the_quiet_weapon",
+            "angle": "hook",
+            "headline": "Stop applying. Start striking.",
+            "primary_text_first_line": "You don't need to apply to 100 jobs. You need to be undeniab",
+            "cta_label": "Build yours free",
+            "image_prompt": "A scroll-stopping vertical composition. A cinematic, high-contrast 1080x1080 square composition. The background is a rich, deep teal — not generic dark, but a commanding forest-dark green-teal that fills the entire frame. This is the brand's own color used as a statement of authority. Center frame: a single sheet of crisp white resume paper floating at a dramatic 15-degree angle, razor-sharp edges, casting a long directional shadow into the deep teal below. The resume's edges and corners emit a precise golden amber glow — not soft, not diffused, but sharp and intentional, as if the document has been honed to a blade's edge. The glow traces only the paper's contours, creating a weapon-grade outline effect. The resume itself shows barely legible professional formatting — clean section headers, bullet points, structured layout — just enough to read as \"resume\" without being specific. A single thin beam of golden amber light cuts diagonally across the upper-left corner of the frame, creating a cinematic atmospheric slash against the deep teal. Typography: Bold condensed all-caps in pure white, positioned in the top third with tight kerning: \"STOP APPLYING.\" Directly below, slightly indented, in golden amber : \"START STRIKING.\" The type is sharp, aggressive, and commanding — no rounded corners, no friendliness. Bottom left: a small, refined logo mark in teal tint , subtle against the dark. Bottom right: \"Build your weapon. Free.\" in warm gold , small and precise, with a thin golden amber outline suggesting a CTA button. Overall mood: controlled intensity — dark luxury meets tactical precision. The deep teal background IS the brand, used not as an accent but as the dominant commanding presence. High contrast, minimal elements, maximum impact. No stock photos, no people, no illustrations, no clutter. Think Tom Ford advertising meets military briefing room aesthetics. Photorealistic rendering with dramatic directional studio lighting. The golden amber serves as the only warm element in an otherwise cool, commanding composition. --- Compose the image as a vertical 9:16 frame for a mobile phone. Reserve the top sixth of the frame as a quiet, uncluttered area where a headline will be added later in post. Reserve the bottom fifth as a calm band where a call-to-action button and a small logo will be added later. The single hero subject sits in the central safe area, generously framed, with breathing room on every side. Nothing critical touches the edges of the frame. The palette is deep forest teal, warm amber gold, and warm gold. One single hero subject, one focal point, no repeated elements. Editorial graphic design execution, made by a human designer, not generic AI imagery. Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "composition_notes": "Hero in central safe zone. Top sixth reserved for headline overlay. Bottom fifth reserved for CTA + logo.",
+            "palette_words": "deep forest teal, warm amber gold, and warm gold",
+            "palette_hexes": [
+              "#005149",
+              "#F5B501",
+              "#B58D47",
+              "#101828",
+              "#E9F3F3"
+            ],
+            "negative_prompt": "Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "format": "9:16_1080x1920",
+            "trend_slugs": []
+          },
+          {
+            "id": "the_quiet_weapon_02_proof_point",
+            "concept_id": "the_quiet_weapon",
+            "angle": "proof_point",
+            "headline": "Stop applying. Start striking.",
+            "primary_text_first_line": "You don't need to apply to 100 jobs. You need to be undeniab",
+            "cta_label": "Build yours free",
+            "image_prompt": "A data-driven vertical composition showing evidence and credibility. A cinematic, high-contrast 1080x1080 square composition. The background is a rich, deep teal — not generic dark, but a commanding forest-dark green-teal that fills the entire frame. This is the brand's own color used as a statement of authority. Center frame: a single sheet of crisp white resume paper floating at a dramatic 15-degree angle, razor-sharp edges, casting a long directional shadow into the deep teal below. The resume's edges and corners emit a precise golden amber glow — not soft, not diffused, but sharp and intentional, as if the document has been honed to a blade's edge. The glow traces only the paper's contours, creating a weapon-grade outline effect. The resume itself shows barely legible professional formatting — clean section headers, bullet points, structured layout — just enough to read as \"resume\" without being specific. A single thin beam of golden amber light cuts diagonally across the upper-left corner of the frame, creating a cinematic atmospheric slash against the deep teal. Typography: Bold condensed all-caps in pure white, positioned in the top third with tight kerning: \"STOP APPLYING.\" Directly below, slightly indented, in golden amber : \"START STRIKING.\" The type is sharp, aggressive, and commanding — no rounded corners, no friendliness. Bottom left: a small, refined logo mark in teal tint , subtle against the dark. Bottom right: \"Build your weapon. Free.\" in warm gold , small and precise, with a thin golden amber outline suggesting a CTA button. Overall mood: controlled intensity — dark luxury meets tactical precision. The deep teal background IS the brand, used not as an accent but as the dominant commanding presence. High contrast, minimal elements, maximum impact. No stock photos, no people, no illustrations, no clutter. Think Tom Ford advertising meets military briefing room aesthetics. Photorealistic rendering with dramatic directional studio lighting. The golden amber serves as the only warm element in an otherwise cool, commanding composition. --- Compose the image as a vertical 9:16 frame for a mobile phone. Reserve the top sixth of the frame as a quiet, uncluttered area where a headline will be added later in post. Reserve the bottom fifth as a calm band where a call-to-action button and a small logo will be added later. The single hero subject sits in the central safe area, generously framed, with breathing room on every side. Nothing critical touches the edges of the frame. The palette is deep forest teal, warm amber gold, and warm gold. One single hero subject, one focal point, no repeated elements. Editorial graphic design execution, made by a human designer, not generic AI imagery. Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "composition_notes": "Hero in central safe zone. Top sixth reserved for headline overlay. Bottom fifth reserved for CTA + logo.",
+            "palette_words": "deep forest teal, warm amber gold, and warm gold",
+            "palette_hexes": [
+              "#005149",
+              "#F5B501",
+              "#B58D47",
+              "#101828",
+              "#E9F3F3"
+            ],
+            "negative_prompt": "Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "format": "9:16_1080x1920",
+            "trend_slugs": []
+          },
+          {
+            "id": "the_quiet_weapon_03_identity_callout",
+            "concept_id": "the_quiet_weapon",
+            "angle": "identity_callout",
+            "headline": "Stop applying. Start striking.",
+            "primary_text_first_line": "You don't need to apply to 100 jobs. You need to be undeniab",
+            "cta_label": "Build yours free",
+            "image_prompt": "A portrait-driven vertical composition speaking directly to job seekers aged 20-40. A cinematic, high-contrast 1080x1080 square composition. The background is a rich, deep teal — not generic dark, but a commanding forest-dark green-teal that fills the entire frame. This is the brand's own color used as a statement of authority. Center frame: a single sheet of crisp white resume paper floating at a dramatic 15-degree angle, razor-sharp edges, casting a long directional shadow into the deep teal below. The resume's edges and corners emit a precise golden amber glow — not soft, not diffused, but sharp and intentional, as if the document has been honed to a blade's edge. The glow traces only the paper's contours, creating a weapon-grade outline effect. The resume itself shows barely legible professional formatting — clean section headers, bullet points, structured layout — just enough to read as \"resume\" without being specific. A single thin beam of golden amber light cuts diagonally across the upper-left corner of the frame, creating a cinematic atmospheric slash against the deep teal. Typography: Bold condensed all-caps in pure white, positioned in the top third with tight kerning: \"STOP APPLYING.\" Directly below, slightly indented, in golden amber : \"START STRIKING.\" The type is sharp, aggressive, and commanding — no rounded corners, no friendliness. Bottom left: a small, refined logo mark in teal tint , subtle against the dark. Bottom right: \"Build your weapon. Free.\" in warm gold , small and precise, with a thin golden amber outline suggesting a CTA button. Overall mood: controlled intensity — dark luxury meets tactical precision. The deep teal background IS the brand, used not as an accent but as the dominant commanding presence. High contrast, minimal elements, maximum impact. No stock photos, no people, no illustrations, no clutter. Think Tom Ford advertising meets military briefing room aesthetics. Photorealistic rendering with dramatic directional studio lighting. The golden amber serves as the only warm element in an otherwise cool, commanding composition. --- Compose the image as a vertical 9:16 frame for a mobile phone. Reserve the top sixth of the frame as a quiet, uncluttered area where a headline will be added later in post. Reserve the bottom fifth as a calm band where a call-to-action button and a small logo will be added later. The single hero subject sits in the central safe area, generously framed, with breathing room on every side. Nothing critical touches the edges of the frame. The palette is deep forest teal, warm amber gold, and warm gold. One single hero subject, one focal point, no repeated elements. Editorial graphic design execution, made by a human designer, not generic AI imagery. Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "composition_notes": "Hero in central safe zone. Top sixth reserved for headline overlay. Bottom fifth reserved for CTA + logo.",
+            "palette_words": "deep forest teal, warm amber gold, and warm gold",
+            "palette_hexes": [
+              "#005149",
+              "#F5B501",
+              "#B58D47",
+              "#101828",
+              "#E9F3F3"
+            ],
+            "negative_prompt": "Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "format": "9:16_1080x1920",
+            "trend_slugs": []
+          },
+          {
+            "id": "the_quiet_weapon_04_demonstration",
+            "concept_id": "the_quiet_weapon",
+            "angle": "demonstration",
+            "headline": "Stop applying. Start striking.",
+            "primary_text_first_line": "You don't need to apply to 100 jobs. You need to be undeniab",
+            "cta_label": "Build yours free",
+            "image_prompt": "A process-demonstration vertical composition showing the tool in action. A cinematic, high-contrast 1080x1080 square composition. The background is a rich, deep teal — not generic dark, but a commanding forest-dark green-teal that fills the entire frame. This is the brand's own color used as a statement of authority. Center frame: a single sheet of crisp white resume paper floating at a dramatic 15-degree angle, razor-sharp edges, casting a long directional shadow into the deep teal below. The resume's edges and corners emit a precise golden amber glow — not soft, not diffused, but sharp and intentional, as if the document has been honed to a blade's edge. The glow traces only the paper's contours, creating a weapon-grade outline effect. The resume itself shows barely legible professional formatting — clean section headers, bullet points, structured layout — just enough to read as \"resume\" without being specific. A single thin beam of golden amber light cuts diagonally across the upper-left corner of the frame, creating a cinematic atmospheric slash against the deep teal. Typography: Bold condensed all-caps in pure white, positioned in the top third with tight kerning: \"STOP APPLYING.\" Directly below, slightly indented, in golden amber : \"START STRIKING.\" The type is sharp, aggressive, and commanding — no rounded corners, no friendliness. Bottom left: a small, refined logo mark in teal tint , subtle against the dark. Bottom right: \"Build your weapon. Free.\" in warm gold , small and precise, with a thin golden amber outline suggesting a CTA button. Overall mood: controlled intensity — dark luxury meets tactical precision. The deep teal background IS the brand, used not as an accent but as the dominant commanding presence. High contrast, minimal elements, maximum impact. No stock photos, no people, no illustrations, no clutter. Think Tom Ford advertising meets military briefing room aesthetics. Photorealistic rendering with dramatic directional studio lighting. The golden amber serves as the only warm element in an otherwise cool, commanding composition. --- Compose the image as a vertical 9:16 frame for a mobile phone. Reserve the top sixth of the frame as a quiet, uncluttered area where a headline will be added later in post. Reserve the bottom fifth as a calm band where a call-to-action button and a small logo will be added later. The single hero subject sits in the central safe area, generously framed, with breathing room on every side. Nothing critical touches the edges of the frame. The palette is deep forest teal, warm amber gold, and warm gold. One single hero subject, one focal point, no repeated elements. Editorial graphic design execution, made by a human designer, not generic AI imagery. Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "composition_notes": "Hero in central safe zone. Top sixth reserved for headline overlay. Bottom fifth reserved for CTA + logo.",
+            "palette_words": "deep forest teal, warm amber gold, and warm gold",
+            "palette_hexes": [
+              "#005149",
+              "#F5B501",
+              "#B58D47",
+              "#101828",
+              "#E9F3F3"
+            ],
+            "negative_prompt": "Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "format": "9:16_1080x1920",
+            "trend_slugs": []
+          }
+        ]
+      },
+      {
+        "concept_id": "career_greenhouse",
+        "concept_name": "Career Greenhouse",
+        "ideas": [
+          {
+            "id": "career_greenhouse_01_hook",
+            "concept_id": "career_greenhouse",
+            "angle": "hook",
+            "headline": "Grow your career",
+            "primary_text_first_line": "Your career isn't a sprint. It's a garden — and every skill ",
+            "cta_label": "Build yours free",
+            "image_prompt": "A scroll-stopping vertical composition. A warm, luminous 1080x1080 square illustration blending organic botanical elements with subtle career iconography. The composition feels alive, growing, optimistic. Background: a soft vertical gradient from deep teal at the very bottom (the \"soil\" layer, occupying the lower 15% of the frame) through teal tint in the middle (the \"atmosphere\") to near-white at the top. Gentle golden amber light rays enter from the upper right corner, casting warm diagonal beams through the teal-tinted atmosphere — these are literal sunbeams in the greenhouse. Center composition: a stylized tree growing upward from the deep teal soil at the base. The trunk is a smooth, organic form in warm gold that curves naturally. It emerges from a partially visible laptop screen at the bottom edge, the screen rendered as a glowing rectangle in deep teal with a subtle teal tint glow around it. The branches extend organically upward, splitting and curving in hand-drawn lines of warm gold. At the branch tips and connection nodes: small, flat-style illustrated icons representing career milestones — a tiny resume page, a handshake symbol, a bar chart trending upward, a briefcase, a graduation cap. These icons are rendered in deep teal and periwinkle , giving them a fresh, modern feel against the warm organic branches. Scattered among the branches: leaves in various stages of growth, some fully unfurled in a soft green derived from mixing teal tint with golden amber warmth, some still curled buds in deeper teal. Typography: rounded, humanist positioned at the top of the frame, lowercase, open letterspacing. First line in warm gold : \"grow your career.\" Second line in deep teal : \"not just your resume.\" The type breathes — generous spacing, no urgency, organic alignment that echoes the tree's natural growth. Bottom center: Teal logo in deep teal , with \"Start growing. Free.\" in small warm gold beneath. Style reference: editorial botanical illustration meets Patagonia brand warmth meets solarpunk optimism. Everything feels hand-crafted and alive — no hard edges, no tech-cold surfaces, no SaaS-blue sterility. The deep teal serves as the nurturing soil, not a corporate color. Illustration style, not photorealistic — flat forms with subtle texture, organic line quality, warm ambient lighting throughout. --- Compose the image as a vertical 9:16 frame for a mobile phone. Reserve the top sixth of the frame as a quiet, uncluttered area where a headline will be added later in post. Reserve the bottom fifth as a calm band where a call-to-action button and a small logo will be added later. The single hero subject sits in the central safe area, generously framed, with breathing room on every side. Nothing critical touches the edges of the frame. The palette is deep forest teal, warm amber gold, and deep forest teal. One single hero subject, one focal point, no repeated elements. Editorial graphic design execution, made by a human designer, not generic AI imagery. Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "composition_notes": "Hero in central safe zone. Top sixth reserved for headline overlay. Bottom fifth reserved for CTA + logo.",
+            "palette_words": "deep forest teal, warm amber gold, and deep forest teal",
+            "palette_hexes": [
+              "#005149",
+              "#F5B501",
+              "#E9F3F3",
+              "#B58D47",
+              "#5A6FEC"
+            ],
+            "negative_prompt": "Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "format": "9:16_1080x1920",
+            "trend_slugs": []
+          },
+          {
+            "id": "career_greenhouse_02_proof_point",
+            "concept_id": "career_greenhouse",
+            "angle": "proof_point",
+            "headline": "Grow your career",
+            "primary_text_first_line": "Your career isn't a sprint. It's a garden — and every skill ",
+            "cta_label": "Build yours free",
+            "image_prompt": "A data-driven vertical composition showing evidence and credibility. A warm, luminous 1080x1080 square illustration blending organic botanical elements with subtle career iconography. The composition feels alive, growing, optimistic. Background: a soft vertical gradient from deep teal at the very bottom (the \"soil\" layer, occupying the lower 15% of the frame) through teal tint in the middle (the \"atmosphere\") to near-white at the top. Gentle golden amber light rays enter from the upper right corner, casting warm diagonal beams through the teal-tinted atmosphere — these are literal sunbeams in the greenhouse. Center composition: a stylized tree growing upward from the deep teal soil at the base. The trunk is a smooth, organic form in warm gold that curves naturally. It emerges from a partially visible laptop screen at the bottom edge, the screen rendered as a glowing rectangle in deep teal with a subtle teal tint glow around it. The branches extend organically upward, splitting and curving in hand-drawn lines of warm gold. At the branch tips and connection nodes: small, flat-style illustrated icons representing career milestones — a tiny resume page, a handshake symbol, a bar chart trending upward, a briefcase, a graduation cap. These icons are rendered in deep teal and periwinkle , giving them a fresh, modern feel against the warm organic branches. Scattered among the branches: leaves in various stages of growth, some fully unfurled in a soft green derived from mixing teal tint with golden amber warmth, some still curled buds in deeper teal. Typography: rounded, humanist positioned at the top of the frame, lowercase, open letterspacing. First line in warm gold : \"grow your career.\" Second line in deep teal : \"not just your resume.\" The type breathes — generous spacing, no urgency, organic alignment that echoes the tree's natural growth. Bottom center: Teal logo in deep teal , with \"Start growing. Free.\" in small warm gold beneath. Style reference: editorial botanical illustration meets Patagonia brand warmth meets solarpunk optimism. Everything feels hand-crafted and alive — no hard edges, no tech-cold surfaces, no SaaS-blue sterility. The deep teal serves as the nurturing soil, not a corporate color. Illustration style, not photorealistic — flat forms with subtle texture, organic line quality, warm ambient lighting throughout. --- Compose the image as a vertical 9:16 frame for a mobile phone. Reserve the top sixth of the frame as a quiet, uncluttered area where a headline will be added later in post. Reserve the bottom fifth as a calm band where a call-to-action button and a small logo will be added later. The single hero subject sits in the central safe area, generously framed, with breathing room on every side. Nothing critical touches the edges of the frame. The palette is deep forest teal, warm amber gold, and deep forest teal. One single hero subject, one focal point, no repeated elements. Editorial graphic design execution, made by a human designer, not generic AI imagery. Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "composition_notes": "Hero in central safe zone. Top sixth reserved for headline overlay. Bottom fifth reserved for CTA + logo.",
+            "palette_words": "deep forest teal, warm amber gold, and deep forest teal",
+            "palette_hexes": [
+              "#005149",
+              "#F5B501",
+              "#E9F3F3",
+              "#B58D47",
+              "#5A6FEC"
+            ],
+            "negative_prompt": "Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "format": "9:16_1080x1920",
+            "trend_slugs": []
+          },
+          {
+            "id": "career_greenhouse_03_identity_callout",
+            "concept_id": "career_greenhouse",
+            "angle": "identity_callout",
+            "headline": "Grow your career",
+            "primary_text_first_line": "Your career isn't a sprint. It's a garden — and every skill ",
+            "cta_label": "Build yours free",
+            "image_prompt": "A portrait-driven vertical composition speaking directly to job seekers aged 20-40. A warm, luminous 1080x1080 square illustration blending organic botanical elements with subtle career iconography. The composition feels alive, growing, optimistic. Background: a soft vertical gradient from deep teal at the very bottom (the \"soil\" layer, occupying the lower 15% of the frame) through teal tint in the middle (the \"atmosphere\") to near-white at the top. Gentle golden amber light rays enter from the upper right corner, casting warm diagonal beams through the teal-tinted atmosphere — these are literal sunbeams in the greenhouse. Center composition: a stylized tree growing upward from the deep teal soil at the base. The trunk is a smooth, organic form in warm gold that curves naturally. It emerges from a partially visible laptop screen at the bottom edge, the screen rendered as a glowing rectangle in deep teal with a subtle teal tint glow around it. The branches extend organically upward, splitting and curving in hand-drawn lines of warm gold. At the branch tips and connection nodes: small, flat-style illustrated icons representing career milestones — a tiny resume page, a handshake symbol, a bar chart trending upward, a briefcase, a graduation cap. These icons are rendered in deep teal and periwinkle , giving them a fresh, modern feel against the warm organic branches. Scattered among the branches: leaves in various stages of growth, some fully unfurled in a soft green derived from mixing teal tint with golden amber warmth, some still curled buds in deeper teal. Typography: rounded, humanist positioned at the top of the frame, lowercase, open letterspacing. First line in warm gold : \"grow your career.\" Second line in deep teal : \"not just your resume.\" The type breathes — generous spacing, no urgency, organic alignment that echoes the tree's natural growth. Bottom center: Teal logo in deep teal , with \"Start growing. Free.\" in small warm gold beneath. Style reference: editorial botanical illustration meets Patagonia brand warmth meets solarpunk optimism. Everything feels hand-crafted and alive — no hard edges, no tech-cold surfaces, no SaaS-blue sterility. The deep teal serves as the nurturing soil, not a corporate color. Illustration style, not photorealistic — flat forms with subtle texture, organic line quality, warm ambient lighting throughout. --- Compose the image as a vertical 9:16 frame for a mobile phone. Reserve the top sixth of the frame as a quiet, uncluttered area where a headline will be added later in post. Reserve the bottom fifth as a calm band where a call-to-action button and a small logo will be added later. The single hero subject sits in the central safe area, generously framed, with breathing room on every side. Nothing critical touches the edges of the frame. The palette is deep forest teal, warm amber gold, and deep forest teal. One single hero subject, one focal point, no repeated elements. Editorial graphic design execution, made by a human designer, not generic AI imagery. Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "composition_notes": "Hero in central safe zone. Top sixth reserved for headline overlay. Bottom fifth reserved for CTA + logo.",
+            "palette_words": "deep forest teal, warm amber gold, and deep forest teal",
+            "palette_hexes": [
+              "#005149",
+              "#F5B501",
+              "#E9F3F3",
+              "#B58D47",
+              "#5A6FEC"
+            ],
+            "negative_prompt": "Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "format": "9:16_1080x1920",
+            "trend_slugs": []
+          },
+          {
+            "id": "career_greenhouse_04_demonstration",
+            "concept_id": "career_greenhouse",
+            "angle": "demonstration",
+            "headline": "Grow your career",
+            "primary_text_first_line": "Your career isn't a sprint. It's a garden — and every skill ",
+            "cta_label": "Build yours free",
+            "image_prompt": "A process-demonstration vertical composition showing the tool in action. A warm, luminous 1080x1080 square illustration blending organic botanical elements with subtle career iconography. The composition feels alive, growing, optimistic. Background: a soft vertical gradient from deep teal at the very bottom (the \"soil\" layer, occupying the lower 15% of the frame) through teal tint in the middle (the \"atmosphere\") to near-white at the top. Gentle golden amber light rays enter from the upper right corner, casting warm diagonal beams through the teal-tinted atmosphere — these are literal sunbeams in the greenhouse. Center composition: a stylized tree growing upward from the deep teal soil at the base. The trunk is a smooth, organic form in warm gold that curves naturally. It emerges from a partially visible laptop screen at the bottom edge, the screen rendered as a glowing rectangle in deep teal with a subtle teal tint glow around it. The branches extend organically upward, splitting and curving in hand-drawn lines of warm gold. At the branch tips and connection nodes: small, flat-style illustrated icons representing career milestones — a tiny resume page, a handshake symbol, a bar chart trending upward, a briefcase, a graduation cap. These icons are rendered in deep teal and periwinkle , giving them a fresh, modern feel against the warm organic branches. Scattered among the branches: leaves in various stages of growth, some fully unfurled in a soft green derived from mixing teal tint with golden amber warmth, some still curled buds in deeper teal. Typography: rounded, humanist positioned at the top of the frame, lowercase, open letterspacing. First line in warm gold : \"grow your career.\" Second line in deep teal : \"not just your resume.\" The type breathes — generous spacing, no urgency, organic alignment that echoes the tree's natural growth. Bottom center: Teal logo in deep teal , with \"Start growing. Free.\" in small warm gold beneath. Style reference: editorial botanical illustration meets Patagonia brand warmth meets solarpunk optimism. Everything feels hand-crafted and alive — no hard edges, no tech-cold surfaces, no SaaS-blue sterility. The deep teal serves as the nurturing soil, not a corporate color. Illustration style, not photorealistic — flat forms with subtle texture, organic line quality, warm ambient lighting throughout. --- Compose the image as a vertical 9:16 frame for a mobile phone. Reserve the top sixth of the frame as a quiet, uncluttered area where a headline will be added later in post. Reserve the bottom fifth as a calm band where a call-to-action button and a small logo will be added later. The single hero subject sits in the central safe area, generously framed, with breathing room on every side. Nothing critical touches the edges of the frame. The palette is deep forest teal, warm amber gold, and deep forest teal. One single hero subject, one focal point, no repeated elements. Editorial graphic design execution, made by a human designer, not generic AI imagery. Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "composition_notes": "Hero in central safe zone. Top sixth reserved for headline overlay. Bottom fifth reserved for CTA + logo.",
+            "palette_words": "deep forest teal, warm amber gold, and deep forest teal",
+            "palette_hexes": [
+              "#005149",
+              "#F5B501",
+              "#E9F3F3",
+              "#B58D47",
+              "#5A6FEC"
+            ],
+            "negative_prompt": "Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "format": "9:16_1080x1920",
+            "trend_slugs": []
+          }
+        ]
+      },
+      {
+        "concept_id": "signal___noise",
+        "concept_name": "Signal : Noise",
+        "ideas": [
+          {
+            "id": "signal___noise_01_hook",
+            "concept_id": "signal___noise",
+            "angle": "hook",
+            "headline": "Cut through",
+            "primary_text_first_line": "750 people applied for that job. Your resume needs to be a s",
+            "cta_label": "Build yours free",
+            "image_prompt": "A scroll-stopping vertical composition. A striking, minimal 1080x1080 square design built on radical simplicity. This is Swiss International Style as brand strategy — every element earns its place through function, not decoration. Background: pure white filling the entire frame. Clean, open, silent. The left 55% of the image is filled with hundreds of tiny lines of text in light gray , densely packed, slightly overlapping at random angles, creating a visual wall of static — a texture of noise. The text is completely illegible — just gray marks suggesting hundreds of generic, identical, forgettable resumes piled on top of each other. This noise field has a subtle gradient, denser at the far left and loosening as it approaches center, as if dissolving into the white. Cutting horizontally through the exact vertical center of the entire frame: a single bold line in deep teal . This line starts thin on the far left, embedded IN the noise, then grows stronger and more defined as it travels right, emerging from the gray static into the clean white space. Where it fully enters the white zone (right 40% of the frame), it resolves into a crisp, perfectly formatted line of text — a resume header reading \"YOUR NAME — YOUR TITLE\" in deep teal, clean and sharp. At the end of this resolved line, a small golden amber checkmark icon, precise and satisfying — the signal has been confirmed. The contrast between the noise wall (gray, chaotic, illegible) and the signal line (deep teal, clean, readable) is immediate and visceral. Top of the frame, positioned above the noise field: bold geometric text in charcoal , large and authoritative: \"SIGNAL\" followed by a colon. On the next line, slightly smaller, in light gray : \"NOISE\" — the two words forming the visual equation \"SIGNAL : NOISE\" with the colon doing heavy typographic lifting. Bottom center: Teal logo in deep teal , perfectly aligned on the grid. Below: \"Be the signal. Free.\" in charcoal type, precise and functional. No photography. No illustrations. No gradients. No shadows. Pure typography, geometric abstraction, and the power of one single teal line against a field of gray. Style reference: Josef Müller-Brockmann poster design meets Edward Tufte data principle meets the feeling of finally finding the one file you need in a cluttered desktop. Maximum impact through minimum elements. The design should feel like a deep, relieved breath of clarity. --- Compose the image as a vertical 9:16 frame for a mobile phone. Reserve the top sixth of the frame as a quiet, uncluttered area where a headline will be added later in post. Reserve the bottom fifth as a calm band where a call-to-action button and a small logo will be added later. The single hero subject sits in the central safe area, generously framed, with breathing room on every side. Nothing critical touches the edges of the frame. The palette is clean white, rich charcoal, and deep forest teal. One single hero subject, one focal point, no repeated elements. Editorial graphic design execution, made by a human designer, not generic AI imagery. Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "composition_notes": "Hero in central safe zone. Top sixth reserved for headline overlay. Bottom fifth reserved for CTA + logo.",
+            "palette_words": "clean white, rich charcoal, and deep forest teal",
+            "palette_hexes": [
+              "#FFFFFF",
+              "#101828",
+              "#005149",
+              "#F5B501",
+              "#F1F2F2"
+            ],
+            "negative_prompt": "Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "format": "9:16_1080x1920",
+            "trend_slugs": []
+          },
+          {
+            "id": "signal___noise_02_proof_point",
+            "concept_id": "signal___noise",
+            "angle": "proof_point",
+            "headline": "Cut through",
+            "primary_text_first_line": "750 people applied for that job. Your resume needs to be a s",
+            "cta_label": "Build yours free",
+            "image_prompt": "A data-driven vertical composition showing evidence and credibility. A striking, minimal 1080x1080 square design built on radical simplicity. This is Swiss International Style as brand strategy — every element earns its place through function, not decoration. Background: pure white filling the entire frame. Clean, open, silent. The left 55% of the image is filled with hundreds of tiny lines of text in light gray , densely packed, slightly overlapping at random angles, creating a visual wall of static — a texture of noise. The text is completely illegible — just gray marks suggesting hundreds of generic, identical, forgettable resumes piled on top of each other. This noise field has a subtle gradient, denser at the far left and loosening as it approaches center, as if dissolving into the white. Cutting horizontally through the exact vertical center of the entire frame: a single bold line in deep teal . This line starts thin on the far left, embedded IN the noise, then grows stronger and more defined as it travels right, emerging from the gray static into the clean white space. Where it fully enters the white zone (right 40% of the frame), it resolves into a crisp, perfectly formatted line of text — a resume header reading \"YOUR NAME — YOUR TITLE\" in deep teal, clean and sharp. At the end of this resolved line, a small golden amber checkmark icon, precise and satisfying — the signal has been confirmed. The contrast between the noise wall (gray, chaotic, illegible) and the signal line (deep teal, clean, readable) is immediate and visceral. Top of the frame, positioned above the noise field: bold geometric text in charcoal , large and authoritative: \"SIGNAL\" followed by a colon. On the next line, slightly smaller, in light gray : \"NOISE\" — the two words forming the visual equation \"SIGNAL : NOISE\" with the colon doing heavy typographic lifting. Bottom center: Teal logo in deep teal , perfectly aligned on the grid. Below: \"Be the signal. Free.\" in charcoal type, precise and functional. No photography. No illustrations. No gradients. No shadows. Pure typography, geometric abstraction, and the power of one single teal line against a field of gray. Style reference: Josef Müller-Brockmann poster design meets Edward Tufte data principle meets the feeling of finally finding the one file you need in a cluttered desktop. Maximum impact through minimum elements. The design should feel like a deep, relieved breath of clarity. --- Compose the image as a vertical 9:16 frame for a mobile phone. Reserve the top sixth of the frame as a quiet, uncluttered area where a headline will be added later in post. Reserve the bottom fifth as a calm band where a call-to-action button and a small logo will be added later. The single hero subject sits in the central safe area, generously framed, with breathing room on every side. Nothing critical touches the edges of the frame. The palette is clean white, rich charcoal, and deep forest teal. One single hero subject, one focal point, no repeated elements. Editorial graphic design execution, made by a human designer, not generic AI imagery. Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "composition_notes": "Hero in central safe zone. Top sixth reserved for headline overlay. Bottom fifth reserved for CTA + logo.",
+            "palette_words": "clean white, rich charcoal, and deep forest teal",
+            "palette_hexes": [
+              "#FFFFFF",
+              "#101828",
+              "#005149",
+              "#F5B501",
+              "#F1F2F2"
+            ],
+            "negative_prompt": "Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "format": "9:16_1080x1920",
+            "trend_slugs": []
+          },
+          {
+            "id": "signal___noise_03_identity_callout",
+            "concept_id": "signal___noise",
+            "angle": "identity_callout",
+            "headline": "Cut through",
+            "primary_text_first_line": "750 people applied for that job. Your resume needs to be a s",
+            "cta_label": "Build yours free",
+            "image_prompt": "A portrait-driven vertical composition speaking directly to job seekers aged 20-40. A striking, minimal 1080x1080 square design built on radical simplicity. This is Swiss International Style as brand strategy — every element earns its place through function, not decoration. Background: pure white filling the entire frame. Clean, open, silent. The left 55% of the image is filled with hundreds of tiny lines of text in light gray , densely packed, slightly overlapping at random angles, creating a visual wall of static — a texture of noise. The text is completely illegible — just gray marks suggesting hundreds of generic, identical, forgettable resumes piled on top of each other. This noise field has a subtle gradient, denser at the far left and loosening as it approaches center, as if dissolving into the white. Cutting horizontally through the exact vertical center of the entire frame: a single bold line in deep teal . This line starts thin on the far left, embedded IN the noise, then grows stronger and more defined as it travels right, emerging from the gray static into the clean white space. Where it fully enters the white zone (right 40% of the frame), it resolves into a crisp, perfectly formatted line of text — a resume header reading \"YOUR NAME — YOUR TITLE\" in deep teal, clean and sharp. At the end of this resolved line, a small golden amber checkmark icon, precise and satisfying — the signal has been confirmed. The contrast between the noise wall (gray, chaotic, illegible) and the signal line (deep teal, clean, readable) is immediate and visceral. Top of the frame, positioned above the noise field: bold geometric text in charcoal , large and authoritative: \"SIGNAL\" followed by a colon. On the next line, slightly smaller, in light gray : \"NOISE\" — the two words forming the visual equation \"SIGNAL : NOISE\" with the colon doing heavy typographic lifting. Bottom center: Teal logo in deep teal , perfectly aligned on the grid. Below: \"Be the signal. Free.\" in charcoal type, precise and functional. No photography. No illustrations. No gradients. No shadows. Pure typography, geometric abstraction, and the power of one single teal line against a field of gray. Style reference: Josef Müller-Brockmann poster design meets Edward Tufte data principle meets the feeling of finally finding the one file you need in a cluttered desktop. Maximum impact through minimum elements. The design should feel like a deep, relieved breath of clarity. --- Compose the image as a vertical 9:16 frame for a mobile phone. Reserve the top sixth of the frame as a quiet, uncluttered area where a headline will be added later in post. Reserve the bottom fifth as a calm band where a call-to-action button and a small logo will be added later. The single hero subject sits in the central safe area, generously framed, with breathing room on every side. Nothing critical touches the edges of the frame. The palette is clean white, rich charcoal, and deep forest teal. One single hero subject, one focal point, no repeated elements. Editorial graphic design execution, made by a human designer, not generic AI imagery. Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "composition_notes": "Hero in central safe zone. Top sixth reserved for headline overlay. Bottom fifth reserved for CTA + logo.",
+            "palette_words": "clean white, rich charcoal, and deep forest teal",
+            "palette_hexes": [
+              "#FFFFFF",
+              "#101828",
+              "#005149",
+              "#F5B501",
+              "#F1F2F2"
+            ],
+            "negative_prompt": "Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "format": "9:16_1080x1920",
+            "trend_slugs": []
+          },
+          {
+            "id": "signal___noise_04_demonstration",
+            "concept_id": "signal___noise",
+            "angle": "demonstration",
+            "headline": "Cut through",
+            "primary_text_first_line": "750 people applied for that job. Your resume needs to be a s",
+            "cta_label": "Build yours free",
+            "image_prompt": "A process-demonstration vertical composition showing the tool in action. A striking, minimal 1080x1080 square design built on radical simplicity. This is Swiss International Style as brand strategy — every element earns its place through function, not decoration. Background: pure white filling the entire frame. Clean, open, silent. The left 55% of the image is filled with hundreds of tiny lines of text in light gray , densely packed, slightly overlapping at random angles, creating a visual wall of static — a texture of noise. The text is completely illegible — just gray marks suggesting hundreds of generic, identical, forgettable resumes piled on top of each other. This noise field has a subtle gradient, denser at the far left and loosening as it approaches center, as if dissolving into the white. Cutting horizontally through the exact vertical center of the entire frame: a single bold line in deep teal . This line starts thin on the far left, embedded IN the noise, then grows stronger and more defined as it travels right, emerging from the gray static into the clean white space. Where it fully enters the white zone (right 40% of the frame), it resolves into a crisp, perfectly formatted line of text — a resume header reading \"YOUR NAME — YOUR TITLE\" in deep teal, clean and sharp. At the end of this resolved line, a small golden amber checkmark icon, precise and satisfying — the signal has been confirmed. The contrast between the noise wall (gray, chaotic, illegible) and the signal line (deep teal, clean, readable) is immediate and visceral. Top of the frame, positioned above the noise field: bold geometric text in charcoal , large and authoritative: \"SIGNAL\" followed by a colon. On the next line, slightly smaller, in light gray : \"NOISE\" — the two words forming the visual equation \"SIGNAL : NOISE\" with the colon doing heavy typographic lifting. Bottom center: Teal logo in deep teal , perfectly aligned on the grid. Below: \"Be the signal. Free.\" in charcoal type, precise and functional. No photography. No illustrations. No gradients. No shadows. Pure typography, geometric abstraction, and the power of one single teal line against a field of gray. Style reference: Josef Müller-Brockmann poster design meets Edward Tufte data principle meets the feeling of finally finding the one file you need in a cluttered desktop. Maximum impact through minimum elements. The design should feel like a deep, relieved breath of clarity. --- Compose the image as a vertical 9:16 frame for a mobile phone. Reserve the top sixth of the frame as a quiet, uncluttered area where a headline will be added later in post. Reserve the bottom fifth as a calm band where a call-to-action button and a small logo will be added later. The single hero subject sits in the central safe area, generously framed, with breathing room on every side. Nothing critical touches the edges of the frame. The palette is clean white, rich charcoal, and deep forest teal. One single hero subject, one focal point, no repeated elements. Editorial graphic design execution, made by a human designer, not generic AI imagery. Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "composition_notes": "Hero in central safe zone. Top sixth reserved for headline overlay. Bottom fifth reserved for CTA + logo.",
+            "palette_words": "clean white, rich charcoal, and deep forest teal",
+            "palette_hexes": [
+              "#FFFFFF",
+              "#101828",
+              "#005149",
+              "#F5B501",
+              "#F1F2F2"
+            ],
+            "negative_prompt": "Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "format": "9:16_1080x1920",
+            "trend_slugs": []
+          }
+        ]
+      },
+      {
+        "concept_id": "main_character_energy",
+        "concept_name": "Main Character Energy",
+        "ideas": [
+          {
+            "id": "main_character_energy_01_hook",
+            "concept_id": "main_character_energy",
+            "angle": "hook",
+            "headline": "Your career",
+            "primary_text_first_line": "You're not application #347. You're the person they've been ",
+            "cta_label": "Build yours free",
+            "image_prompt": "A scroll-stopping vertical composition. A bold, editorial 1080x1080 square design radiating confident energy and personal celebration. This is a career tool that feels like a magazine cover — because the user IS the cover story. Background: deep teal filling the entire frame — rich, commanding, theatrical. This is the stage. A dramatic diagonal slash of teal tint cuts from upper right to lower left, creating a dynamic compositional split — roughly 60% deep teal, 40% teal tint — generating visual tension and movement. Center composition: a stylized resume document rendered in white/teal tint, angled slightly. The traditional photo area at the top of the resume has been dramatically enlarged and a confident human silhouette steps forward OUT of the resume frame, physically breaking the document's boundary. The silhouette is defined by a gradient from deep teal to charcoal , but its edges are illuminated by a golden amber spotlight effect — rim lighting that traces the figure's confident posture. Small purple and golden amber sparkle effects scatter around the figure like celebration particles — not excessive, but present, suggesting achievement and energy. The figure's pose is dynamic: mid-stride, head raised, shoulders back, moving forward out of the flat document into three-dimensional space. Typography: mixed-font editorial treatment positioned at the top third. \"YOU'RE NOT\" in small, clean white (tracking wide, understated). Next line: \"APPLICATION \" in huge, bold display font — golden amber against the deep teal background. The scale contrast between the small white line and the large amber headline creates editorial drama. Below the figure, in teal tint , editorial italic: \"You're the hire they didn't know they needed.\" Bottom: Teal logo in teal tint . \"Write your story. Free.\" in white with a golden amber outlined pill-shaped CTA button — warm and inviting against the deep teal stage. Style reference: Spotify Wrapped personal data celebration meets Kinfolk magazine editorial layouts meets dramatic theatre lighting. Energetic, personal, warm yet bold. The deep teal is the STAGE, golden amber is the SPOTLIGHT, and the user is the STAR. The overall feeling: empowerment, self-advocacy, \"you deserve to be seen.\" The opposite of every cold, dashboard-centric, faceless career tool in the market. --- Compose the image as a vertical 9:16 frame for a mobile phone. Reserve the top sixth of the frame as a quiet, uncluttered area where a headline will be added later in post. Reserve the bottom fifth as a calm band where a call-to-action button and a small logo will be added later. The single hero subject sits in the central safe area, generously framed, with breathing room on every side. Nothing critical touches the edges of the frame. The palette is deep forest teal, warm amber gold, and electric violet. One single hero subject, one focal point, no repeated elements. Editorial graphic design execution, made by a human designer, not generic AI imagery. Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "composition_notes": "Hero in central safe zone. Top sixth reserved for headline overlay. Bottom fifth reserved for CTA + logo.",
+            "palette_words": "deep forest teal, warm amber gold, and electric violet",
+            "palette_hexes": [
+              "#005149",
+              "#F5B501",
+              "#7F56D9",
+              "#E84E30",
+              "#E9F3F3"
+            ],
+            "negative_prompt": "Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "format": "9:16_1080x1920",
+            "trend_slugs": []
+          },
+          {
+            "id": "main_character_energy_02_proof_point",
+            "concept_id": "main_character_energy",
+            "angle": "proof_point",
+            "headline": "Your career",
+            "primary_text_first_line": "You're not application #347. You're the person they've been ",
+            "cta_label": "Build yours free",
+            "image_prompt": "A data-driven vertical composition showing evidence and credibility. A bold, editorial 1080x1080 square design radiating confident energy and personal celebration. This is a career tool that feels like a magazine cover — because the user IS the cover story. Background: deep teal filling the entire frame — rich, commanding, theatrical. This is the stage. A dramatic diagonal slash of teal tint cuts from upper right to lower left, creating a dynamic compositional split — roughly 60% deep teal, 40% teal tint — generating visual tension and movement. Center composition: a stylized resume document rendered in white/teal tint, angled slightly. The traditional photo area at the top of the resume has been dramatically enlarged and a confident human silhouette steps forward OUT of the resume frame, physically breaking the document's boundary. The silhouette is defined by a gradient from deep teal to charcoal , but its edges are illuminated by a golden amber spotlight effect — rim lighting that traces the figure's confident posture. Small purple and golden amber sparkle effects scatter around the figure like celebration particles — not excessive, but present, suggesting achievement and energy. The figure's pose is dynamic: mid-stride, head raised, shoulders back, moving forward out of the flat document into three-dimensional space. Typography: mixed-font editorial treatment positioned at the top third. \"YOU'RE NOT\" in small, clean white (tracking wide, understated). Next line: \"APPLICATION \" in huge, bold display font — golden amber against the deep teal background. The scale contrast between the small white line and the large amber headline creates editorial drama. Below the figure, in teal tint , editorial italic: \"You're the hire they didn't know they needed.\" Bottom: Teal logo in teal tint . \"Write your story. Free.\" in white with a golden amber outlined pill-shaped CTA button — warm and inviting against the deep teal stage. Style reference: Spotify Wrapped personal data celebration meets Kinfolk magazine editorial layouts meets dramatic theatre lighting. Energetic, personal, warm yet bold. The deep teal is the STAGE, golden amber is the SPOTLIGHT, and the user is the STAR. The overall feeling: empowerment, self-advocacy, \"you deserve to be seen.\" The opposite of every cold, dashboard-centric, faceless career tool in the market. --- Compose the image as a vertical 9:16 frame for a mobile phone. Reserve the top sixth of the frame as a quiet, uncluttered area where a headline will be added later in post. Reserve the bottom fifth as a calm band where a call-to-action button and a small logo will be added later. The single hero subject sits in the central safe area, generously framed, with breathing room on every side. Nothing critical touches the edges of the frame. The palette is deep forest teal, warm amber gold, and electric violet. One single hero subject, one focal point, no repeated elements. Editorial graphic design execution, made by a human designer, not generic AI imagery. Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "composition_notes": "Hero in central safe zone. Top sixth reserved for headline overlay. Bottom fifth reserved for CTA + logo.",
+            "palette_words": "deep forest teal, warm amber gold, and electric violet",
+            "palette_hexes": [
+              "#005149",
+              "#F5B501",
+              "#7F56D9",
+              "#E84E30",
+              "#E9F3F3"
+            ],
+            "negative_prompt": "Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "format": "9:16_1080x1920",
+            "trend_slugs": []
+          },
+          {
+            "id": "main_character_energy_03_identity_callout",
+            "concept_id": "main_character_energy",
+            "angle": "identity_callout",
+            "headline": "Your career",
+            "primary_text_first_line": "You're not application #347. You're the person they've been ",
+            "cta_label": "Build yours free",
+            "image_prompt": "A portrait-driven vertical composition speaking directly to job seekers aged 20-40. A bold, editorial 1080x1080 square design radiating confident energy and personal celebration. This is a career tool that feels like a magazine cover — because the user IS the cover story. Background: deep teal filling the entire frame — rich, commanding, theatrical. This is the stage. A dramatic diagonal slash of teal tint cuts from upper right to lower left, creating a dynamic compositional split — roughly 60% deep teal, 40% teal tint — generating visual tension and movement. Center composition: a stylized resume document rendered in white/teal tint, angled slightly. The traditional photo area at the top of the resume has been dramatically enlarged and a confident human silhouette steps forward OUT of the resume frame, physically breaking the document's boundary. The silhouette is defined by a gradient from deep teal to charcoal , but its edges are illuminated by a golden amber spotlight effect — rim lighting that traces the figure's confident posture. Small purple and golden amber sparkle effects scatter around the figure like celebration particles — not excessive, but present, suggesting achievement and energy. The figure's pose is dynamic: mid-stride, head raised, shoulders back, moving forward out of the flat document into three-dimensional space. Typography: mixed-font editorial treatment positioned at the top third. \"YOU'RE NOT\" in small, clean white (tracking wide, understated). Next line: \"APPLICATION \" in huge, bold display font — golden amber against the deep teal background. The scale contrast between the small white line and the large amber headline creates editorial drama. Below the figure, in teal tint , editorial italic: \"You're the hire they didn't know they needed.\" Bottom: Teal logo in teal tint . \"Write your story. Free.\" in white with a golden amber outlined pill-shaped CTA button — warm and inviting against the deep teal stage. Style reference: Spotify Wrapped personal data celebration meets Kinfolk magazine editorial layouts meets dramatic theatre lighting. Energetic, personal, warm yet bold. The deep teal is the STAGE, golden amber is the SPOTLIGHT, and the user is the STAR. The overall feeling: empowerment, self-advocacy, \"you deserve to be seen.\" The opposite of every cold, dashboard-centric, faceless career tool in the market. --- Compose the image as a vertical 9:16 frame for a mobile phone. Reserve the top sixth of the frame as a quiet, uncluttered area where a headline will be added later in post. Reserve the bottom fifth as a calm band where a call-to-action button and a small logo will be added later. The single hero subject sits in the central safe area, generously framed, with breathing room on every side. Nothing critical touches the edges of the frame. The palette is deep forest teal, warm amber gold, and electric violet. One single hero subject, one focal point, no repeated elements. Editorial graphic design execution, made by a human designer, not generic AI imagery. Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "composition_notes": "Hero in central safe zone. Top sixth reserved for headline overlay. Bottom fifth reserved for CTA + logo.",
+            "palette_words": "deep forest teal, warm amber gold, and electric violet",
+            "palette_hexes": [
+              "#005149",
+              "#F5B501",
+              "#7F56D9",
+              "#E84E30",
+              "#E9F3F3"
+            ],
+            "negative_prompt": "Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "format": "9:16_1080x1920",
+            "trend_slugs": []
+          },
+          {
+            "id": "main_character_energy_04_demonstration",
+            "concept_id": "main_character_energy",
+            "angle": "demonstration",
+            "headline": "Your career",
+            "primary_text_first_line": "You're not application #347. You're the person they've been ",
+            "cta_label": "Build yours free",
+            "image_prompt": "A process-demonstration vertical composition showing the tool in action. A bold, editorial 1080x1080 square design radiating confident energy and personal celebration. This is a career tool that feels like a magazine cover — because the user IS the cover story. Background: deep teal filling the entire frame — rich, commanding, theatrical. This is the stage. A dramatic diagonal slash of teal tint cuts from upper right to lower left, creating a dynamic compositional split — roughly 60% deep teal, 40% teal tint — generating visual tension and movement. Center composition: a stylized resume document rendered in white/teal tint, angled slightly. The traditional photo area at the top of the resume has been dramatically enlarged and a confident human silhouette steps forward OUT of the resume frame, physically breaking the document's boundary. The silhouette is defined by a gradient from deep teal to charcoal , but its edges are illuminated by a golden amber spotlight effect — rim lighting that traces the figure's confident posture. Small purple and golden amber sparkle effects scatter around the figure like celebration particles — not excessive, but present, suggesting achievement and energy. The figure's pose is dynamic: mid-stride, head raised, shoulders back, moving forward out of the flat document into three-dimensional space. Typography: mixed-font editorial treatment positioned at the top third. \"YOU'RE NOT\" in small, clean white (tracking wide, understated). Next line: \"APPLICATION \" in huge, bold display font — golden amber against the deep teal background. The scale contrast between the small white line and the large amber headline creates editorial drama. Below the figure, in teal tint , editorial italic: \"You're the hire they didn't know they needed.\" Bottom: Teal logo in teal tint . \"Write your story. Free.\" in white with a golden amber outlined pill-shaped CTA button — warm and inviting against the deep teal stage. Style reference: Spotify Wrapped personal data celebration meets Kinfolk magazine editorial layouts meets dramatic theatre lighting. Energetic, personal, warm yet bold. The deep teal is the STAGE, golden amber is the SPOTLIGHT, and the user is the STAR. The overall feeling: empowerment, self-advocacy, \"you deserve to be seen.\" The opposite of every cold, dashboard-centric, faceless career tool in the market. --- Compose the image as a vertical 9:16 frame for a mobile phone. Reserve the top sixth of the frame as a quiet, uncluttered area where a headline will be added later in post. Reserve the bottom fifth as a calm band where a call-to-action button and a small logo will be added later. The single hero subject sits in the central safe area, generously framed, with breathing room on every side. Nothing critical touches the edges of the frame. The palette is deep forest teal, warm amber gold, and electric violet. One single hero subject, one focal point, no repeated elements. Editorial graphic design execution, made by a human designer, not generic AI imagery. Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "composition_notes": "Hero in central safe zone. Top sixth reserved for headline overlay. Bottom fifth reserved for CTA + logo.",
+            "palette_words": "deep forest teal, warm amber gold, and electric violet",
+            "palette_hexes": [
+              "#005149",
+              "#F5B501",
+              "#7F56D9",
+              "#E84E30",
+              "#E9F3F3"
+            ],
+            "negative_prompt": "Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "format": "9:16_1080x1920",
+            "trend_slugs": []
+          }
+        ]
+      },
+      {
+        "concept_id": "the_transparent_machine",
+        "concept_name": "The Transparent Machine",
+        "ideas": [
+          {
+            "id": "the_transparent_machine_01_hook",
+            "concept_id": "the_transparent_machine",
+            "angle": "hook",
+            "headline": "See exactly why you'll get hir",
+            "primary_text_first_line": "Our AI flagged 3 missing keywords in your resume. Here's eac",
+            "cta_label": "Build yours free",
+            "image_prompt": "A scroll-stopping vertical composition. A clean, structural 1080x1080 square design evoking architectural blueprints, glass-box transparency, and the beauty of visible systems. This is an that shows you exactly how things work — because that's the brand promise. Background: teal tint filling the entire frame — a pale, crystalline, glass-like surface. Over this, a subtle grid pattern in deep indigo at very low opacity — thin lines forming a precise engineering grid, reminiscent of graph paper, architectural drafting sheets, or code editor backgrounds. The grid is present but recessive — structure you feel more than see. Center composition: a resume document shown in an \"exploded-view\" diagram style. The resume is separated into its four component sections — header, experience, skills, education — each floating as a distinct card/panel with clean edges and subtle shadows. The panels are white with deep teal text simulating resume content. Thin dotted connection lines in periwinkle link the sections, showing the structural relationship between them — these lines animate the idea of \"seeing how things connect.\" Next to each resume section, small annotation boxes appear:\n- Beside the skills section: a rounded rectangle with deep teal background and white text reading \"✓ ATS match: 87%\" with a small golden amber checkmark icon\n- Beside the experience section: a rounded rectangle with coral red background and white text reading \"⚠ Gap: project management\" - Beside a bullet point in experience: deep teal annotation reading \"✓ Quantified impact\" with golden amber checkmark\n- Beside the header: periwinkle annotation reading \"◉ Strong keyword alignment\" These annotations are small but clearly legible — they're the \"glass box\" showing the AI's reasoning, not hiding it. Each annotation has a thin connecting line to the resume section it references. Typography: positioned at the top of the frame. Clean humanist in deep teal : \"SEE EXACTLY WHY\" on the first line. On the second line, in deep indigo , slightly larger and bolder: \"YOU'LL GET HIRED.\" The contrast between deep teal (human, warm) and deep indigo (technical, precise) reinforces the \"transparency\" concept — human narrative meets machine intelligence. Bottom center: Teal logo in deep teal . Below: \"Transparent AI. Free forever.\" in deep indigo type — the font makes it feel like a code comment, honest and unadorned. Style reference: architectural exploded-view technical drawings meets open-source README documentation aesthetics meets the satisfying clarity of a well-organized Notion page. Nothing decorative — every single element on the canvas serves a purpose, and that purpose is VISIBLE. The teal tint background IS the glass — transparent, light, revealing. The deep teal structure beneath is what you're seeing through it. The design should feel like putting on glasses for the first time and suddenly everything is sharp: \"Oh — THAT'S why my resume works.\" Compose the image as a vertical 9:16 frame for a mobile phone. Reserve the top sixth of the frame as a quiet, uncluttered area where a headline will be added later in post. Reserve the bottom fifth as a calm band where a call-to-action button and a small logo will be added later. The single hero subject sits in the central safe area, generously framed, with breathing room on every side. Nothing critical touches the edges of the frame. The palette is deep forest teal, deep forest teal, and deep indigo. One single hero subject, one focal point, no repeated elements. Editorial graphic design execution, made by a human designer, not generic AI imagery. Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "composition_notes": "Hero in central safe zone. Top sixth reserved for headline overlay. Bottom fifth reserved for CTA + logo.",
+            "palette_words": "deep forest teal, deep forest teal, and deep indigo",
+            "palette_hexes": [
+              "#E9F3F3",
+              "#005149",
+              "#2427AB",
+              "#5A6FEC",
+              "#F5B501",
+              "#E84E30"
+            ],
+            "negative_prompt": "Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "format": "9:16_1080x1920",
+            "trend_slugs": []
+          },
+          {
+            "id": "the_transparent_machine_02_proof_point",
+            "concept_id": "the_transparent_machine",
+            "angle": "proof_point",
+            "headline": "See exactly why you'll get hir",
+            "primary_text_first_line": "Our AI flagged 3 missing keywords in your resume. Here's eac",
+            "cta_label": "Build yours free",
+            "image_prompt": "A data-driven vertical composition showing evidence and credibility. A clean, structural 1080x1080 square design evoking architectural blueprints, glass-box transparency, and the beauty of visible systems. This is an that shows you exactly how things work — because that's the brand promise. Background: teal tint filling the entire frame — a pale, crystalline, glass-like surface. Over this, a subtle grid pattern in deep indigo at very low opacity — thin lines forming a precise engineering grid, reminiscent of graph paper, architectural drafting sheets, or code editor backgrounds. The grid is present but recessive — structure you feel more than see. Center composition: a resume document shown in an \"exploded-view\" diagram style. The resume is separated into its four component sections — header, experience, skills, education — each floating as a distinct card/panel with clean edges and subtle shadows. The panels are white with deep teal text simulating resume content. Thin dotted connection lines in periwinkle link the sections, showing the structural relationship between them — these lines animate the idea of \"seeing how things connect.\" Next to each resume section, small annotation boxes appear:\n- Beside the skills section: a rounded rectangle with deep teal background and white text reading \"✓ ATS match: 87%\" with a small golden amber checkmark icon\n- Beside the experience section: a rounded rectangle with coral red background and white text reading \"⚠ Gap: project management\" - Beside a bullet point in experience: deep teal annotation reading \"✓ Quantified impact\" with golden amber checkmark\n- Beside the header: periwinkle annotation reading \"◉ Strong keyword alignment\" These annotations are small but clearly legible — they're the \"glass box\" showing the AI's reasoning, not hiding it. Each annotation has a thin connecting line to the resume section it references. Typography: positioned at the top of the frame. Clean humanist in deep teal : \"SEE EXACTLY WHY\" on the first line. On the second line, in deep indigo , slightly larger and bolder: \"YOU'LL GET HIRED.\" The contrast between deep teal (human, warm) and deep indigo (technical, precise) reinforces the \"transparency\" concept — human narrative meets machine intelligence. Bottom center: Teal logo in deep teal . Below: \"Transparent AI. Free forever.\" in deep indigo type — the font makes it feel like a code comment, honest and unadorned. Style reference: architectural exploded-view technical drawings meets open-source README documentation aesthetics meets the satisfying clarity of a well-organized Notion page. Nothing decorative — every single element on the canvas serves a purpose, and that purpose is VISIBLE. The teal tint background IS the glass — transparent, light, revealing. The deep teal structure beneath is what you're seeing through it. The design should feel like putting on glasses for the first time and suddenly everything is sharp: \"Oh — THAT'S why my resume works.\" Compose the image as a vertical 9:16 frame for a mobile phone. Reserve the top sixth of the frame as a quiet, uncluttered area where a headline will be added later in post. Reserve the bottom fifth as a calm band where a call-to-action button and a small logo will be added later. The single hero subject sits in the central safe area, generously framed, with breathing room on every side. Nothing critical touches the edges of the frame. The palette is deep forest teal, deep forest teal, and deep indigo. One single hero subject, one focal point, no repeated elements. Editorial graphic design execution, made by a human designer, not generic AI imagery. Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "composition_notes": "Hero in central safe zone. Top sixth reserved for headline overlay. Bottom fifth reserved for CTA + logo.",
+            "palette_words": "deep forest teal, deep forest teal, and deep indigo",
+            "palette_hexes": [
+              "#E9F3F3",
+              "#005149",
+              "#2427AB",
+              "#5A6FEC",
+              "#F5B501",
+              "#E84E30"
+            ],
+            "negative_prompt": "Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "format": "9:16_1080x1920",
+            "trend_slugs": []
+          },
+          {
+            "id": "the_transparent_machine_03_identity_callout",
+            "concept_id": "the_transparent_machine",
+            "angle": "identity_callout",
+            "headline": "See exactly why you'll get hir",
+            "primary_text_first_line": "Our AI flagged 3 missing keywords in your resume. Here's eac",
+            "cta_label": "Build yours free",
+            "image_prompt": "A portrait-driven vertical composition speaking directly to job seekers aged 20-40. A clean, structural 1080x1080 square design evoking architectural blueprints, glass-box transparency, and the beauty of visible systems. This is an that shows you exactly how things work — because that's the brand promise. Background: teal tint filling the entire frame — a pale, crystalline, glass-like surface. Over this, a subtle grid pattern in deep indigo at very low opacity — thin lines forming a precise engineering grid, reminiscent of graph paper, architectural drafting sheets, or code editor backgrounds. The grid is present but recessive — structure you feel more than see. Center composition: a resume document shown in an \"exploded-view\" diagram style. The resume is separated into its four component sections — header, experience, skills, education — each floating as a distinct card/panel with clean edges and subtle shadows. The panels are white with deep teal text simulating resume content. Thin dotted connection lines in periwinkle link the sections, showing the structural relationship between them — these lines animate the idea of \"seeing how things connect.\" Next to each resume section, small annotation boxes appear:\n- Beside the skills section: a rounded rectangle with deep teal background and white text reading \"✓ ATS match: 87%\" with a small golden amber checkmark icon\n- Beside the experience section: a rounded rectangle with coral red background and white text reading \"⚠ Gap: project management\" - Beside a bullet point in experience: deep teal annotation reading \"✓ Quantified impact\" with golden amber checkmark\n- Beside the header: periwinkle annotation reading \"◉ Strong keyword alignment\" These annotations are small but clearly legible — they're the \"glass box\" showing the AI's reasoning, not hiding it. Each annotation has a thin connecting line to the resume section it references. Typography: positioned at the top of the frame. Clean humanist in deep teal : \"SEE EXACTLY WHY\" on the first line. On the second line, in deep indigo , slightly larger and bolder: \"YOU'LL GET HIRED.\" The contrast between deep teal (human, warm) and deep indigo (technical, precise) reinforces the \"transparency\" concept — human narrative meets machine intelligence. Bottom center: Teal logo in deep teal . Below: \"Transparent AI. Free forever.\" in deep indigo type — the font makes it feel like a code comment, honest and unadorned. Style reference: architectural exploded-view technical drawings meets open-source README documentation aesthetics meets the satisfying clarity of a well-organized Notion page. Nothing decorative — every single element on the canvas serves a purpose, and that purpose is VISIBLE. The teal tint background IS the glass — transparent, light, revealing. The deep teal structure beneath is what you're seeing through it. The design should feel like putting on glasses for the first time and suddenly everything is sharp: \"Oh — THAT'S why my resume works.\" Compose the image as a vertical 9:16 frame for a mobile phone. Reserve the top sixth of the frame as a quiet, uncluttered area where a headline will be added later in post. Reserve the bottom fifth as a calm band where a call-to-action button and a small logo will be added later. The single hero subject sits in the central safe area, generously framed, with breathing room on every side. Nothing critical touches the edges of the frame. The palette is deep forest teal, deep forest teal, and deep indigo. One single hero subject, one focal point, no repeated elements. Editorial graphic design execution, made by a human designer, not generic AI imagery. Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "composition_notes": "Hero in central safe zone. Top sixth reserved for headline overlay. Bottom fifth reserved for CTA + logo.",
+            "palette_words": "deep forest teal, deep forest teal, and deep indigo",
+            "palette_hexes": [
+              "#E9F3F3",
+              "#005149",
+              "#2427AB",
+              "#5A6FEC",
+              "#F5B501",
+              "#E84E30"
+            ],
+            "negative_prompt": "Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "format": "9:16_1080x1920",
+            "trend_slugs": []
+          },
+          {
+            "id": "the_transparent_machine_04_demonstration",
+            "concept_id": "the_transparent_machine",
+            "angle": "demonstration",
+            "headline": "See exactly why you'll get hir",
+            "primary_text_first_line": "Our AI flagged 3 missing keywords in your resume. Here's eac",
+            "cta_label": "Build yours free",
+            "image_prompt": "A process-demonstration vertical composition showing the tool in action. A clean, structural 1080x1080 square design evoking architectural blueprints, glass-box transparency, and the beauty of visible systems. This is an that shows you exactly how things work — because that's the brand promise. Background: teal tint filling the entire frame — a pale, crystalline, glass-like surface. Over this, a subtle grid pattern in deep indigo at very low opacity — thin lines forming a precise engineering grid, reminiscent of graph paper, architectural drafting sheets, or code editor backgrounds. The grid is present but recessive — structure you feel more than see. Center composition: a resume document shown in an \"exploded-view\" diagram style. The resume is separated into its four component sections — header, experience, skills, education — each floating as a distinct card/panel with clean edges and subtle shadows. The panels are white with deep teal text simulating resume content. Thin dotted connection lines in periwinkle link the sections, showing the structural relationship between them — these lines animate the idea of \"seeing how things connect.\" Next to each resume section, small annotation boxes appear:\n- Beside the skills section: a rounded rectangle with deep teal background and white text reading \"✓ ATS match: 87%\" with a small golden amber checkmark icon\n- Beside the experience section: a rounded rectangle with coral red background and white text reading \"⚠ Gap: project management\" - Beside a bullet point in experience: deep teal annotation reading \"✓ Quantified impact\" with golden amber checkmark\n- Beside the header: periwinkle annotation reading \"◉ Strong keyword alignment\" These annotations are small but clearly legible — they're the \"glass box\" showing the AI's reasoning, not hiding it. Each annotation has a thin connecting line to the resume section it references. Typography: positioned at the top of the frame. Clean humanist in deep teal : \"SEE EXACTLY WHY\" on the first line. On the second line, in deep indigo , slightly larger and bolder: \"YOU'LL GET HIRED.\" The contrast between deep teal (human, warm) and deep indigo (technical, precise) reinforces the \"transparency\" concept — human narrative meets machine intelligence. Bottom center: Teal logo in deep teal . Below: \"Transparent AI. Free forever.\" in deep indigo type — the font makes it feel like a code comment, honest and unadorned. Style reference: architectural exploded-view technical drawings meets open-source README documentation aesthetics meets the satisfying clarity of a well-organized Notion page. Nothing decorative — every single element on the canvas serves a purpose, and that purpose is VISIBLE. The teal tint background IS the glass — transparent, light, revealing. The deep teal structure beneath is what you're seeing through it. The design should feel like putting on glasses for the first time and suddenly everything is sharp: \"Oh — THAT'S why my resume works.\" Compose the image as a vertical 9:16 frame for a mobile phone. Reserve the top sixth of the frame as a quiet, uncluttered area where a headline will be added later in post. Reserve the bottom fifth as a calm band where a call-to-action button and a small logo will be added later. The single hero subject sits in the central safe area, generously framed, with breathing room on every side. Nothing critical touches the edges of the frame. The palette is deep forest teal, deep forest teal, and deep indigo. One single hero subject, one focal point, no repeated elements. Editorial graphic design execution, made by a human designer, not generic AI imagery. Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "composition_notes": "Hero in central safe zone. Top sixth reserved for headline overlay. Bottom fifth reserved for CTA + logo.",
+            "palette_words": "deep forest teal, deep forest teal, and deep indigo",
+            "palette_hexes": [
+              "#E9F3F3",
+              "#005149",
+              "#2427AB",
+              "#5A6FEC",
+              "#F5B501",
+              "#E84E30"
+            ],
+            "negative_prompt": "Avoid these visual tropes entirely: smiling stock models facing the camera, soft teal gradients, glowing chrome figures, isometric 3D product floats in space, bokeh sunrises, generic AI gradient backgrounds, watermarks, logos, brand marks, rendered hex codes, rendered URLs, captions, subtitles, low contrast composition, cluttered competing elements, repeated identical objects, Midjourney chrome aesthetic, fake handwriting fonts, comic-book speech bubbles.",
+            "format": "9:16_1080x1920",
+            "trend_slugs": []
+          }
+        ]
+      }
+    ],
+    "format_default": "9:16_1080x1920",
+    "target_platform": "meta_2026"
+  },
+  "competitor_map": null,
+  "red_ocean": null,
+  "blue_ocean": null,
+  "interrogation": null,
+  "generated_at": "2026-04-08T20:07:04.413493"
+}

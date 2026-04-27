@@ -1,0 +1,29 @@
+{
+  "brand_name": "Perplexity",
+  "website": "https://www.perplexity.ai/",
+  "perception": {
+    "brand_name": "Perplexity",
+    "primary_feelings": [
+      "intelligent",
+      "trustworthy",
+      "accessible",
+      "efficient",
+      "modern"
+    ],
+    "sentiment_score": 1,
+    "positioning": "Perplexity positions itself as a free AI-powered answer engine that competes with search engines but emphasizes delivering direct, accurate answers rather than just search results. It differentiates through real-time capabilities and reliability.",
+    "tone_of_voice": "Professional yet accessible, confident and straightforward, tech-forward without being intimidating",
+    "perceived_audience": "Tech-savvy users, information seekers, and early adopters looking for smarter, more efficient alternatives to traditional search engines.",
+    "key_promises": [
+      "Provides accurate answers",
+      "Offers trusted information",
+      "Delivers real-time answers",
+      "Free to use",
+      "AI-powered intelligence"
+    ],
+    "brand_personality": "Perplexity is like a knowledgeable librarian who's been upgraded with superpowers—quick, reliable, and always ready with the right answer. It's confident but not arrogant, helpful without being pushy.",
+    "visual_first_impression": "Clean, minimalist, and tech-focused design suggesting simplicity and clarity in cutting through information overload.",
+    "how_people_see_it": "People likely see Perplexity as an innovative alternative to traditional search engines, emphasizing its AI capabilities and trustworthiness. The emphasis on being \"free\" while offering \"accurate, trusted, and real-time\" answers positions it as both accessible and premium in quality. The sentiment is strongly positive, with the brand communicating reliability and intelligence without complexity."
+  },
+  "scrape_status": 200
+}

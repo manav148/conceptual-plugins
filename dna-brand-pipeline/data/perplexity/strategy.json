@@ -1,0 +1,151 @@
+{
+  "schema_version": "1.1",
+  "brand_name": "Perplexity",
+  "website": "https://www.perplexity.ai/",
+  "dna": {
+    "purpose": "Perplexity exists to cut through the noise of traditional search and deliver straight, trustworthy answers in an era of AI credibility concerns. It serves as the antidote to information overload—giving people direct access to reliable, real-time knowledge without forcing them to sift through links, ads, or ambiguity.",
+    "personality": [
+      "knowledgeable",
+      "no-nonsense",
+      "direct",
+      "reliable",
+      "tech-forward"
+    ],
+    "positioning": "Perplexity occupies the space between traditional search engines and AI chatbots—it's an AI-native answer engine that prioritizes verifiable accuracy over conversational charm. While competitors either bury answers in links or hallucinate confidently, Perplexity stakes its ground on being the trusted, citation-backed source that treats user questions as worthy of real answers.",
+    "promise": "You ask a question, you get an accurate, trustworthy answer—sourced, real-time, and free. No digging through results, no second-guessing the AI.",
+    "unique_space": "Perplexity owns the territory of \"credible AI search\"—the intersection where AI-powered intelligence meets verifiable trust. This is the space for people who want AI's speed and synthesis but refuse to sacrifice accuracy; a territory that neither hallucination-prone chatbots nor ad-cluttered search engines can authentically claim.",
+    "essence": "The no-nonsense expert who gives you the real answer, not ten blue links."
+  },
+  "concepts": [
+    {
+      "id": "C01",
+      "title": "The Citation Engine",
+      "tagline": "Every answer comes with receipts.",
+      "strategic_insight": "In an era where AI confidently hallucinates and search engines bury truth under ads, people don't just want answers—they want proof. The act of citing sources has become a radical act of transparency that most competitors avoid because it exposes their weaknesses.",
+      "core_promise": "You will never have to wonder where we got our information. Every claim, every fact, every answer is traceable to its source.",
+      "visual_world": {
+        "archetype": "The Archivist",
+        "colors": ["Deep navy", "Paper white", "Citation gold"],
+        "typography": "Sharp serifs with academic weight—think legal briefs meets tech documentation",
+        "imagery": "Stacked sources, footnote markers as design elements, layered transparency, visible citation trails",
+        "mood": "Scholarly confidence—the feeling of a well-researched brief that wins arguments"
+      },
+      "verbal_world": {
+        "tone": "Prosecutorial precision—every word accountable, every claim backed",
+        "use": ["Sourced from", "According to", "Verified by", "Traced to", "On record"],
+        "avoid": ["Trust us", "We believe", "Probably", "Maybe", "In our opinion"],
+        "example": "You asked about climate projections. Here's the answer—and here's exactly where it came from."
+      },
+      "copy_constraints": {
+        "max_headline_words": 6,
+        "banned_patterns": ["Trust our AI", "Believe in", "We think"],
+        "required_tone": "evidentiary"
+      },
+      "how_it_challenges_norms": "1) Rejects the AI industry norm of hiding source material behind opaque models. 2) Refuses the search engine norm of treating citations as optional footnotes rather than core product features. 3) Treats transparency as a competitive advantage rather than a liability."
+    },
+    {
+      "id": "C02",
+      "title": "The Anti-Search Search",
+      "tagline": "We killed the results page. You're welcome.",
+      "strategic_insight": "The 'ten blue links' format was designed for a web of documents, not a world of questions. Users have been trained to accept browsing as searching, when what they actually want is the elimination of browsing entirely. Perplexity can position as the deliberate destroyer of search as we know it.",
+      "core_promise": "The answer is the interface. No scrolling, no clicking through, no comparing tabs. Your question deserves a direct response, not a research assignment.",
+      "visual_world": {
+        "archetype": "The Minimalist Revolutionary",
+        "colors": ["Pure black", "Clinical white", "Single accent electric blue"],
+        "typography": "Brutal sans-serif, maximum whitespace, text as the only visual element",
+        "imagery": "Crossed-out search results, redacted link lists, the empty search bar as hero, negative space as design philosophy",
+        "mood": "Surgical elimination—the relief of clutter removed"
+      },
+      "verbal_world": {
+        "tone": "Declarative and final—statements not suggestions",
+        "use": ["The answer", "Done", "Here", "Directly", "No more"],
+        "avoid": ["Results", "Options", "Browse", "Explore", "Discover"],
+        "example": "You asked a question. Here's the answer. What else?"
+      },
+      "copy_constraints": {
+        "max_headline_words": 5,
+        "banned_patterns": ["Search results", "Browse our", "Explore the"],
+        "required_tone": "abrupt"
+      },
+      "how_it_challenges_norms": "1) Explicitly attacks the sacred 'results page' format that search engines have protected for 25 years. 2) Rejects the browse-and-compare model that keeps users on-platform longer. 3) Positions efficiency as aggression against an industry built on maximizing time-on-site."
+    },
+    {
+      "id": "C03",
+      "title": "The Real-Time Oracle",
+      "tagline": "What's true right now.",
+      "strategic_insight": "Most AI systems are frozen in their training data—knowledge museums rather than living intelligence. Meanwhile, search engines have real-time data but no synthesis capability. Perplexity can own the narrow but crucial territory of intelligence that's both synthesized AND current—the only place where 'what happened five minutes ago' meets 'what does it mean.'",
+      "core_promise": "When the world changes, your answers change with it. Never stale, never outdated, never a snapshot of yesterday's truth.",
+      "visual_world": {
+        "archetype": "The Live Wire",
+        "colors": ["Signal green", "Midnight black", "Pulse white"],
+        "typography": "Monospace for timestamps, clean sans for content—the aesthetic of live data feeds",
+        "imagery": "Timestamp markers, refresh indicators, live pulse animations, the feeling of constant update",
+        "mood": "Alert currency—the energy of a newsroom that never sleeps"
+      },
+      "verbal_world": {
+        "tone": "Present-tense urgency—everything is happening now",
+        "use": ["As of now", "Currently", "Just updated", "Live", "This moment"],
+        "avoid": ["Recently", "Last we checked", "Historically", "Traditionally", "Used to be"],
+        "example": "The Fed just announced rates. Here's what it means for your question—updated 47 seconds ago."
+      },
+      "copy_constraints": {
+        "max_headline_words": 5,
+        "banned_patterns": ["Recently updated", "Check back later", "As of our last"],
+        "required_tone": "urgent"
+      },
+      "how_it_challenges_norms": "1) Refuses the AI norm of accepting training cutoff dates as acceptable limitations. 2) Rejects the search norm of treating freshness as just one ranking signal among many. 3) Makes temporal accuracy a primary product feature rather than a secondary concern."
+    },
+    {
+      "id": "C04",
+      "title": "The Question Dignifier",
+      "tagline": "Your question deserved better than ten blue links.",
+      "strategic_insight": "Search engines have trained people to apologize for their questions—to simplify, to keyword-stuff, to 'search' rather than 'ask.' This learned helplessness is a market failure. Perplexity can position as the service that treats human curiosity as worthy of real engagement, not algorithmic guessing games.",
+      "core_promise": "Ask like a human. Get answered like you matter. Your curiosity is valid, your phrasing is fine, your question deserves an actual answer.",
+      "visual_world": {
+        "archetype": "The Attentive Expert",
+        "colors": ["Warm charcoal", "Soft cream", "Thoughtful amber"],
+        "typography": "Humanist sans-serif with generous spacing—readable, respectful, unhurried",
+        "imagery": "Question marks as celebrated icons, human hands typing naturally, the dignity of genuine inquiry",
+        "mood": "Respectful attention—the feeling of being truly heard by someone qualified to answer"
+      },
+      "verbal_world": {
+        "tone": "Validating intelligence—acknowledging the question before answering it",
+        "use": ["You asked", "That's worth knowing", "Here's what you're looking for", "Good question", "Understood"],
+        "avoid": ["Did you mean", "Try searching for", "No results for", "Showing results for", "Related searches"],
+        "example": "You asked how tariffs affect consumer prices. Not 'tariffs definition.' Not 'tariffs news.' Your actual question. Here's your actual answer."
+      },
+      "copy_constraints": {
+        "max_headline_words": 7,
+        "banned_patterns": ["Did you mean", "Try again", "No results"],
+        "required_tone": "affirming"
+      },
+      "how_it_challenges_norms": "1) Rejects the search industry's training of users to speak in keywords rather than questions. 2) Refuses the chatbot norm of redirecting or 'clarifying' questions to fit the model's capabilities. 3) Treats question interpretation as a service obligation rather than a user responsibility."
+    },
+    {
+      "id": "C05",
+      "title": "The Hallucination-Free Zone",
+      "tagline": "AI that admits what it doesn't know.",
+      "strategic_insight": "The AI industry's credibility crisis stems from a single sin: confident wrongness. ChatGPT and competitors have trained users to fact-check AI, creating a tax on every interaction. Perplexity can own the radical position of intellectual honesty—the only AI that treats uncertainty as a feature, not a bug to hide.",
+      "core_promise": "When we're certain, we'll tell you. When we're not, we'll tell you that too. No confident fabrication, no plausible-sounding fiction, no hallucinations dressed as facts.",
+      "visual_world": {
+        "archetype": "The Honest Broker",
+        "colors": ["Certainty blue", "Uncertainty gray", "Verification green"],
+        "typography": "Clear, factual grotesque—no decorative elements, no ambiguity in presentation",
+        "imagery": "Confidence indicators, verification checkmarks, honest uncertainty markers, the visual language of calibrated certainty",
+        "mood": "Trustworthy restraint—the relief of dealing with someone who won't oversell"
+      },
+      "verbal_world": {
+        "tone": "Calibrated confidence—strong claims where warranted, honest hedging where not",
+        "use": ["Verified", "Confirmed by sources", "Uncertain—here's why", "Evidence suggests", "Multiple sources agree"],
+        "avoid": ["Definitely", "Always", "Never", "Certainly", "Without doubt"],
+        "example": "Based on three verified sources, the answer is X. One source suggests Y, but we couldn't confirm it. Here's what we know for certain."
+      },
+      "copy_constraints": {
+        "max_headline_words": 6,
+        "banned_patterns": ["100% accurate", "Always right", "Never wrong"],
+        "required_tone": "calibrated"
+      },
+      "how_it_challenges_norms": "1) Rejects the AI norm of projecting confidence regardless of actual certainty. 2) Refuses the tech industry habit of hiding limitations in fine print. 3) Positions epistemic humility as strength rather than weakness in a market of overconfident competitors."
+    }
+  ]
+}

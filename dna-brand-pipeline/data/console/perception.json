@@ -1,0 +1,29 @@
+{
+  "brand_name": "Console",
+  "website": "https://www.console.com/",
+  "perception": {
+    "brand_name": "Console",
+    "primary_feelings": [
+      "efficient",
+      "modern",
+      "relief-bringing",
+      "trustworthy",
+      "intelligent"
+    ],
+    "sentiment_score": 1,
+    "positioning": "Console positions itself as the AI-native replacement for bloated, outdated ITSM tools, promising to auto-resolve over 50% of IT support requests and help IT teams achieve \"Inbox Zero.\" It emphasizes speed, natural language automation, and freeing IT teams from repetitive work.",
+    "tone_of_voice": "Professional yet approachable, confident and solution-focused. The brand is direct and punchy (\"Your best people shouldn't be resetting passwords\"), with a subtle edge that challenges traditional ITSM inefficiency.",
+    "perceived_audience": "IT teams and leaders at mid-to-large enterprises who are overwhelmed by repetitive support tickets, frustrated with legacy ITSM platforms, and looking for AI-powered automation to reclaim time for strategic work.",
+    "key_promises": [
+      "Auto-resolve over 50% of support requests using AI",
+      "Get to Inbox Zero and free up IT teams from repetitive work",
+      "Deploy from demo to production in 3 weeks or less",
+      "Replace bloated ITSM tools with a fast, modern inbox",
+      "Deeply secure with SOC 2, HIPAA, and GDPR compliance"
+    ],
+    "brand_personality": "Console is like a brilliant, efficient coworker who swoops in to handle all the tedious busywork no one wants to do. They're sharp, dependable, and quietly confident—they don't brag, they just get results and let the numbers speak.",
+    "visual_first_impression": "Clean, modern interface with a tech-forward aesthetic—emphasizing speed, clarity, and sophisticated simplicity through streamlined visuals and crisp layouts.",
+    "how_people_see_it": "People online likely see Console as a refreshing, innovative disruptor in the ITSM space—a credible alternative to clunky legacy tools like ServiceNow. The strong customer testimonials (4x auto-resolution increase, CSAT jumping from 84% to 94%) create trust and social proof. The brand feels like it \"gets\" IT teams' pain points and offers genuine relief, not just another software burden."
+  },
+  "scrape_status": 200
+}
